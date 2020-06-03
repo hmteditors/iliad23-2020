@@ -1,0 +1,13 @@
+<div n="MS_FOLIO_SCHOLION" type="scholion">
+  <div n="lemma">
+    <p>
+      <num value="numeric value (such as '1')">NUMBER LABELING SCHOLION</num>
+    </p>
+  </div>
+  <div n="ref">
+    <p>urn:cts:greekLit:tlg0012.tlg001.SIGLUM:BOOK.LINE</p>
+  </div>
+  <div n="comment">
+    <p>TEXT of SCHOLION</p>
+  </div>
+</div>
