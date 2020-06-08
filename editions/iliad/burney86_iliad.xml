@@ -5,14 +5,13 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>Your</editor>
-        <editor>names</editor>
-        <editor>go</editor>
-        <editor>here</editor>
+        <editor>Natalie DiMattia</editor>
+        <editor>Anne-Catherine Schaaf</editor>
+        <editor>Sophia Sarro</editor>
 
       </titleStmt>
       <publicationStmt>
-        <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
+        <p>Unpublished edition of the Burney 86 manuscript for the Homer Multitext project</p>
       </publicationStmt>
       <sourceDesc>
         <p>Edited directly from photography of the manuscript</p>
@@ -23,7 +22,8 @@
     <body>
 
       <div n="23">
-        <l n="1"/>
+        <l n="1">ὣς οἱ μὲν, στενάχοντο κατὰ πτόλιν~ αὐτὰρ Ἀχαιοὶ</l>
+        <l n="2">ἐπεὶ δὴ νῆάς τε καὶ Ἑλλήσποντον ἵκοντο,</l>
       </div>
     </body>
   </text>
