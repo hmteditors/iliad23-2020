@@ -4,9 +4,9 @@
     <fileDesc>
       <titleStmt>
         <title>Scholia to Burney 86</title>
-        <editor>YOUR</editor>
-        <editor>NAMES</editor>
-        <editor>HERE</editor>
+        <editor>Natalie DiMattia</editor>
+        <editor>Anne-Catherine Schaaf</editor>
+        <editor>Sophia Sarro</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -21,18 +21,48 @@
 <group n="23">
   <text n="burney86">
     <body>
-      <div n="SCHOLION_ID" type="scholion">
+      <div n="ms_86_250r_1" type="scholion">
         <div n="lemma">
           <p>
             <num value="1">TEXT_OF_NUMBER</num>
           </p>
         </div>
         <div n="ref">
-          <p>URN FOR ILIAD</p>
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.1</p>
         </div>
         <div n="comment">
           <p>
-            <p>CONTENT</p>
+            <p>πτόλιν: <rs type ="ethnic" n="urn:cite2:hmt:place.v1:place98">Κυπρίων</rs> τῶν ἐν <placeName n="urn:cite2:hmt:place.v1:place118">Σαλαμῖνι</placeName> ἡ λέξις~ κεῖται δὲ καὶ παρὰ κωμικῷ <persName n="x">Ἀναξανδρίδῃ</persName> ἐν Σωσίππῳ⁑</p>
+          </p>
+        </div>
+      </div>
+      <div n="ms_86_250r_2" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="2">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.2</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>νῆας: τὸν τόπον τῶν νηῶν⁑</p>
+          </p>
+        </div>
+      </div>
+      <div n="ms_86_250r_3" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="3">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.2</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p><placeName n= "urn:cite2:hmt:place.v1:place22">Ἑλλήσποντον</placeName>: τὴν μέχρι <placeName n= "urn:cite2:hmt:place.v1:place424">Σιγείου</placeName> θάλασσαν⁑</p>
           </p>
         </div>
       </div>
