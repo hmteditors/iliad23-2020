@@ -36,7 +36,7 @@
           </p>
         </div>
       </div>
-      <div n="e3_294r_4" type="scholion">
+      <div n="msB_303r_4" type="scholion">
         <div n="lemma">
           <p>
             <num value="17">ιζ</num>
@@ -47,11 +47,11 @@
         </div>
         <div n="comment">
           <p>
-            <p>Νῆας. τὸν τόπον τῶν νηῶν~<placeName n="urn:cite2:hmt:place.v1:place22"> Ἑλλήσποντον</placeName> δὲ τὴν μέχρι <placeName n="urn:cite2:hmt:place.v1:place424">Σιγείου</placeName> θάλασσαν⁑</p>
+            <p>νῆας τὸν τόπον τῶν νηῶν~<placeName n="urn:cite2:hmt:place.v1:place22"> Ἑλλήσποντον</placeName> δὲ, τὴν μέχρι <placeName n="urn:cite2:hmt:place.v1:place424">Σιγείου</placeName> θάλασσαν⁑</p>
           </p>
         </div>
       </div>
-      <div n="e3_294r_5" type="scholion">
+      <div n="msB_303r_5" type="scholion">
         <div n="lemma">
           <p>
             <num value="18">ιη</num>
@@ -66,7 +66,7 @@
           </p>
         </div>
       </div>
-      <div n="e3_294r_6" type="scholion">
+      <div n="msB_303r_6" type="scholion">
         <div n="lemma">
           <p>
             <num value="19">ιθ</num>
@@ -81,7 +81,7 @@
           </p>
           </div>
         </div>
-        <div n="e3_294r_7" type="scholion">
+        <div n="msB_303r_7" type="scholion">
           <div n="lemma">
             <p>
               <num value="20">κ</num>
@@ -96,7 +96,7 @@
             </p>
             </div>
           </div>
-          <div n="e3_294r_8" type="scholion">
+          <div n="msB_303r_8" type="scholion">
             <div n="lemma">
               <p>
                 <num value=""></num>
@@ -107,22 +107,22 @@
             </div>
             <div n="comment">
               <p>
-                <p>λείπει ἡ συν ⁑</p>
+                <p>λείπει ἡ συν⁑</p>
               </p>
               </div>
             </div>
-            <div n="e3_294r_9" type="scholion">
+            <div n="msB_303r_9" type="scholion">
               <div n="lemma">
                 <p>
                   <num value="21">κα</num>
                 </p>
               </div>
               <div n="ref">
-                <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.10</p>
+                <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.12</p>
               </div>
               <div n="comment">
                 <p>
-                  <p><persName n="urn:cite2:hmt:pers.v1:pers225">Αἰσχύλος</persName> φησὶν. ὅτι στεναγμὶ τῶν πόνων ἰάματα οὐ μέτρια τυγχάνουσιν⁑</p>
+                  <p><persName n="urn:cite2:hmt:pers.v1:pers225">Αἰσχύλος</persName> φησὶν. ὅτι στεναγμὶ; τῶν πόνων ἰάματα οὐ μέτρια τυγχάνουσιν⁑</p>
                 </p>
                 </div>
               </div>
