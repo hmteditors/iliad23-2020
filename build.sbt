@@ -18,7 +18,7 @@ libraryDependencies ++= Seq(
   "edu.holycross.shot" %% "midvalidator" % "13.0.0",
   "edu.holycross.shot" %% "citevalidator" % "1.1.0",
 
-  "org.homermultitext" %% "hmt-textmodel" % "6.1.3",
+  "org.homermultitext" %% "hmt-textmodel" % "7.0.0",
 
 
 
