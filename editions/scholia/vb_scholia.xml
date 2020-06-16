@@ -21,21 +21,7 @@
 <group n="23">
   <text n="msB">
     <body>
-      <div n="SCHOLION_ID" type="scholion">
-        <div n="lemma">
-          <p>
-            <num value="1">TEXT_OF_NUMBER</num>
-          </p>
-        </div>
-        <div n="ref">
-          <p>URN FOR ILIAD</p>
-        </div>
-        <div n="comment">
-          <p>
-            <p>CONTENT</p>
-          </p>
-        </div>
-      </div>
+      
       <div n="msB_303r_4" type="scholion">
         <div n="lemma">
           <p>
