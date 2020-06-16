@@ -50,6 +50,7 @@ def validate(page: String) : Unit = {
   val dseResults = TestResultGroup(
     s"DSE validation for ${pgUrn.collection}, page ${pgUrn.objectComponent}",
     LibraryValidator.validate(pgUrn,Vector(dseValidator)))
+    
   new PrintWriter(s"${dir}/dse-validation.md"){write(dseResults.markdown); close;}
 
   val dseVerify = dseValidator.verify(pgUrn)
