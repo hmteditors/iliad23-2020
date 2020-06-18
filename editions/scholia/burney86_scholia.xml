@@ -33,7 +33,7 @@
         </div>
         <div n="comment">
           <p>
-            <p>πτόλιν: <rs type ="ethnic" n="urn:cite2:hmt:place.v1:place98">Κυπρίων</rs> τῶν ἐν <placeName n="urn:cite2:hmt:place.v1:place118">Σαλαμῖνι</placeName> ἡ λέξις~ κεῖται δὲ καὶ παρὰ κωμικῷ <persName n="x">Ἀναξανδρίδῃ</persName> ἐν Σωσίππῳ⁑</p>
+            <p>πτόλιν: <rs type ="ethnic" n="urn:cite2:hmt:place.v1:place98">Κυπρίων</rs> τῶν ἐν <placeName n="urn:cite2:hmt:place.v1:place118">Σαλαμῖνι</placeName> ἡ λέξις~ κεῖται δὲ καὶ παρὰ κωμικῷ <persName n="x">Ἀναξανδρίδῃ</persName> ἐν <title>Σωσίππῳ</title>⁑</p>
           </p>
         </div>
       </div>
@@ -160,7 +160,7 @@
         </div>
         <div n="comment">
           <p>
-            <p>μετα δέ σφι <persName n="urn:cite2:hmt:pers.v1:pers19">Θέτις</persName>: ἢ καὶ αὐτὴ ἀνα καλλομένη~ ἢ θεία δυνάμει ἐμπνεύσασα συμπάθειαν αὐτοῖς~⁑</p>
+            <p>μετα δέ σφι <persName n="urn:cite2:hmt:pers.v1:pers19">Θέτις</persName>: ἢ καὶ αὐτὴ ἀνα<sic>καλλομένη</sic>~ ἢ θεία δυνάμει ἐμπνεύσασα συμπάθειαν αὐτοῖς~⁑</p>
           </p>
         </div>
       </div>
@@ -176,7 +176,7 @@
         </div>
         <div n="comment">
           <p>
-            <p>τεύχεα φωτῶν: τινὲς διαστέλλειν ἐπὶ τὸ τεύχεα~ ἵνα, φασί, τοῖς τῶν <choice><abbr>ἀνων</abbr><expan>ἀνθρώπων</expan></choice> δάκρυσιν~ αἵ τε ψάμαθοι καὶ τὰ ὅπλα βρέχηται~  τερατῶδες γὰρ τὸ δακρύειν τὰ ὅπλα⁑</p>
+            <p>τεύχεα φωτῶν: τινὲς διαστέλλουσιν ἐπὶ τὸ <q>τεύχεα</q>~ ἵνα, φασί, τοῖς τῶν <choice><abbr>ἀνων</abbr><expan>ἀνθρώπων</expan></choice> δάκρυσιν~ αἵ τε ψάμαθοι καὶ τὰ ὅπλα βρέχηται~  τερατῶδες γὰρ τὸ δακρύειν τὰ ὅπλα⁑</p>
           </p>
         </div>
       </div>
@@ -192,7 +192,7 @@
         </div>
         <div n="comment">
           <p>
-            <p>τοῖον γὰρ πόθεον: <ref type="waw">τοῖον</ref> αὐξητικῶς κατὰ ἔμφασιν~ οἱ δὲ Γλωσσογράφοι ἀντὶ τοῦ ἀγαθόν ἤκουσαν⁑</p>
+            <p>τοῖον γὰρ πόθεον: <q>τοῖον</q> αὐξητικῶς κατὰ ἔμφασιν~ οἱ δὲ Γλωσσογράφοι ἀντὶ τοῦ ἀγαθόν ἤκουσαν⁑</p>
           </p>
         </div>
       </div>
@@ -272,7 +272,7 @@
         </div>
         <div n="comment">
           <p>
-            <p> χαῖρέ μοι, ὧ <persName n="urn:cite2:hmt:pers.v1:pers158">Πάτροκλε</persName>: οἴκτου κινητικὸν ἡ πρὸς νεκροὺς ὁμιλία~ κατέχεται δὲ τῇ κοινῇ ἐννοίᾳ ὁ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεύς</persName>~ καὶ ἔοικεν ἀηδές τι τὸν θάνατον ὑπειληφέναι~ τοῦτο γοῦν ἐν ὑπερβολῇ φησι <cit ref="urn:cts:greekLit:tlg0012.tlg001.burney86.23.19"><q> καὶ εἰν <persName n="urn:cite2:hmt:pers.v1:pers201">Ἀΐδαο</persName> δόμοισιν</q></cit> ὢν ὅμως χαῖρε~ οἷον εἰ ἔστι παραμυθία καὶ χαρὰ ἐν τοῖς τελευτηκόσι, ταύτην δέχου παρ' ἡμῶν⁑</p>
+            <p> χαῖρέ μοι, ὧ <persName n="urn:cite2:hmt:pers.v1:pers158">Πάτροκλε</persName>: οἴκτου κινητικὸν ἡ πρὸς νεκροὺς ὁμιλία~ κατέχεται δὲ τῇ κοινῇ ἐννοίᾳ ὁ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεύς</persName>~ καὶ ἔοικεν ἀηδές τι τὸν θάνατον ὑπειληφέναι~ τοῦτο γοῦν ἐν ὑπερβολῇ φησι <cit> <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.burney86.23.19</ref><q> καὶ εἰν <persName n="urn:cite2:hmt:pers.v1:pers201">Ἀΐδαο</persName> δόμοισιν</q></cit> ὢν ὅμως χαῖρε~ οἷον εἰ ἔστι παραμυθία καὶ χαρὰ ἐν τοῖς τελευτηκόσι, ταύτην δέχου παρ' ἡμῶν⁑</p>
           </p>
         </div>
       </div>
