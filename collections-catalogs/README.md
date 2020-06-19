@@ -1,1 +1,1 @@
-This directory is for CEX-format of c
+This directory is for CEX-format catalogs of CITE collections.
