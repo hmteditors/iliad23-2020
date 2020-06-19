@@ -112,6 +112,51 @@
                 </p>
                 </div>
               </div>
+              <div n="msB_303r_9" type="scholion">
+                <div n="lemma">
+                  <p>
+                    <num value="21">κα</num>
+                  </p>
+                </div>
+                <div n="ref">
+                  <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.12</p>
+                </div>
+                <div n="comment">
+                  <p>
+                    <p><persName n="urn:cite2:hmt:pers.v1:pers225">Αἰσχύλος</persName> φησὶν. ὅτι στεναγμὶ; τῶν πόνων ἰάματα οὐ μέτρια τυγχάνουσιν⁑</p>
+                  </p>
+                  </div>
+                </div>
+                <div n="msB_303v" type="scholion">
+                  <div n="lemma">
+                    <p>
+                      <num value="1">α</num>
+                    </p>
+                  </div>
+                  <div n="ref">
+                    <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.14</p>
+                  </div>
+                  <div n="comment">
+                    <p>
+                      <p>ἰάσατο τὸ ἀπρεπὲσ τ<!-- left off here -->⁑</p>
+                    </p>
+                    </div>
+                  </div>
+                  <div n="msB_303r_9" type="scholion">
+                    <div n="lemma">
+                      <p>
+                        <num value="21">κα</num>
+                      </p>
+                    </div>
+                    <div n="ref">
+                      <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.12</p>
+                    </div>
+                    <div n="comment">
+                      <p>
+                        <p><persName n="urn:cite2:hmt:pers.v1:pers225">Αἰσχύλος</persName> φησὶν. ὅτι στεναγμὶ; τῶν πόνων ἰάματα οὐ μέτρια τυγχάνουσιν⁑</p>
+                      </p>
+                      </div>
+                    </div>
     </body>
   </text>
 </group>
