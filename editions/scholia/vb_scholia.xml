@@ -112,6 +112,7 @@
                 </p>
                 </div>
               </div>
+              <!--
               <div n="msB_303r_9" type="scholion">
                 <div n="lemma">
                   <p>
@@ -138,7 +139,10 @@
                   </div>
                   <div n="comment">
                     <p>
-                      <p>ἰάσατο τὸ ἀπρεπὲσ τ<!-- left off here -->⁑</p>
+                      <p>ἰάσατο τὸ ἀπρεπὲσ τ
+                      LEFT OFF HERE
+
+                      ⁑</p>
                     </p>
                     </div>
                   </div>
@@ -157,6 +161,8 @@
                       </p>
                       </div>
                     </div>
+
+-->
     </body>
   </text>
 </group>
