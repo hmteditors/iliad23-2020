@@ -1,2 +1,12 @@
 #!ctsdata
+<<<<<<< HEAD
+reading#image#scholion#text
+urn:cite2:hmt:vbmarkers.v1:303r_4#<num>ιζ</num>#urn:cite2:hmt:vbbifolio.v1:vb_302v_303r@0.7598,0.4730,0.01811,0.03165#urn:cts:greekLit:tlg5026.msB.hmt:23.msB_303r_4#urn:cts:greekLit:tlg0012.tlg001.msB:23.2@ἐπειδὴ
+urn:cite2:hmt:vbmarkers.v1:303r_5#<num>ιη</num>#urn:cite2:hmt:vbbifolio.v1:vb_302v_303r@0.7563,0.6031,0.02269,0.03324#urn:cts:greekLit:tlg5026.msB.hmt:23.msB_303r_5#urn:cts:greekLit:tlg0012.tlg001.msB:23.3@ἐσκίδναντο
+urn:cite2:hmt:vbmarkers.v1:303r_6#<num>ιθ</num>#urn:cite2:hmt:vbbifolio.v1:vb_302v_303r@0.4713,0.7303,0.01332,0.02465#urn:cts:greekLit:tlg5026.msB.hmt:23.msB_303r_6#urn:cts:greekLit:tlg0012.tlg001.msB:23.4@ἀποσκίδνασθαι
+urn:cite2:hmt:vbmarkers.v1:303r_7#<num>κ</num>#urn:cite2:hmt:vbbifolio.v1:vb_302v_303r@0.4723,0.7463,0.01218,0.02401#urn:cts:greekLit:tlg5026.msB.hmt:23.msB_303r_7#urn:cts:greekLit:tlg0012.tlg001.msB:23.7@ὄχεσφι
+urn:cite2:hmt:vbmarkers.v1:303r_8#
+urn:cite2:hmt:vbmarkers.v1:303r_9#<num>κα</num>#urn:cite2:hmt:vbbifolio.v1:vb_302v_303r@0.4708,0.7592,0.01821,0.03133#urn:cts:greekLit:tlg5026.msB.hmt:23.msB_303r_9#urn:cts:greekLit:tlg0012.tlg001.msB:23.12@ᾤμωξαν
+=======
 urn#reading#image#scholion#text
+>>>>>>> a02e81c4b22234b01d75acdb9e744ce158f423d7

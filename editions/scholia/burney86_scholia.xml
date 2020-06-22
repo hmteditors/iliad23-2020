@@ -276,6 +276,135 @@
           </p>
         </div>
       </div>
+
+      <div n="ms_86_250v_1" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="1">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.20</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>τελέω: ὅσον οὔπω τελέσω⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_2" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="2">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.21</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>δάσασθαι: οἱ μὲν ἕκτορα δάσασθαι λείποντος τοῦ οἱ δὲ μερίσασθαι~ εἰώθασι δὲ κύνες ἄλλος ἄλλοθεν ἀποσπᾶν καὶ μερίζεσθαι τὸ σῶμα⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_3" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="3">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.24</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>ἀεικέα μήδετο ἔργα: ἀπεοικότα διετίθει ἔργα~ τοῦτο δέ ἐστι, τὸ ἐπὶ στόμα ἐκτεῖναι τὸ σῶμα~ καὶ ἐνυβρίζειν τῷ οὐκ ἀντιλαμβανομένῳ~ κωφὴν γὰρ δὴ γαῖαν ἀεικίζει μενεαίνων ἢ τοῦτο ἀεικὲς τὸν μείζω παρὰ τῇ τοῦ ἥσσονος ἐρρῖφθαι σκηνῇ⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_4" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="4">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.26</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>οἱ δ' ἕκαστος: ἀντὶ τοῦ‘τῶν δὲ ἕκαστος’⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_5" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="5">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.28</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>παρὰ νηΐ: λείπει‘καὶ σκηνῇ’~ ὡς παρά τε κλισίῃ καὶ νηῒ μελαίνῃ~ φησὶ γοῦν· ὅς μοι ἐνὶ κλισίῃ δεδαϊγμένος ὀξέϊ χαλκῷ κεῖται⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_6" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="6">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.29</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>τάφον: ἰδίως νῦν ἐπὶ τοῦ μὴ ταφέντος~ φησὶ γοῦν χεύαντες δὲ τὸ σῆμα πάλιν κίον~ αὐτὰρ ἔπειτα~ καὶ ἐπ' Αἰγίσθου. δαίνυ τάφον Ἀργείοισιν~ αὐτῆμαρ δέ οἱ ἦλθεν· εἰ δὲ εὑρήκει αὐτόν, οὐκ ἂν εἴασεν ταφῆναι~ φησὶ γοῦν~ τῷ καί οἱ οὐδὲ θανόντι χυτὴν ἐπὶ γαῖαν ἔχευαν~ εἰ μὴ τὸ δαίνυ ἀντὶ τοῦ παρεσκεύαζεν~ <rs type ="ethnic" n="urn:cite2:hmt:place.v1:place98">Κύπριοι</rs> δὲ τάφον τὸν φόνον~ πολέων τάφῳ ἀνδρῶν ἀντεβόλησα~ ὅ ἐστι φόνῳ⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_7" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="7">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.30</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>πολλοὶ: ἡ ἐπανάληψις τοῦ πολλοί, τὸ πλῆθος ἐμφαίνει καὶ τὸ ἀόριστον⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_8" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="8">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86.23.30</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>βόες ἀργοί: ταχεῖς~ ἀλλὰ εἰλίποδες, λευκοί~ ἀλλ' οὐ θύεται λευκὸν τοῖς τεθνεῶσι. δῆλον ἐκ τοῦ ἔνθ' ὄϊν ἀρνειὸν ῥέζειν θῆλύν τε μέλαιναν~ καὶ ὄϊν ἱερευσέμεν οἴῳ  παμμέλαινα νὸν~ ἢ οὖν μετὰ τὸ ἐκδαρῆναι διὰ τὴν πιμελήν. ἢ ὅτι οὐ τῷ Πατρόκλῳ, ἀλλ' εἰς τὸ περίδειπνον τῶν ζώντων τοὺς βόας ἔθυον~ ἢ ἀργῶς, ὅ ἐστι ταχέως~ ὡς ταχέες δ' ἱππῆες ἄγερθεν~ τινὲς δὲ ἀργοὶ συνεχεῖς, ταχεῖς, ἀδιάλειπτοι~ ἢ ἀργῷ σιδήρῳ τῷ πολιῷ.⁑</p>
+          </p>
+        </div>
+      </div>
+
     </body>
   </text>
 </group>

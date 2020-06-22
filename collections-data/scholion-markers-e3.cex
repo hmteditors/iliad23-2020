@@ -1,2 +1,12 @@
 #!ctsdata
+<<<<<<< HEAD
+reading#image#scholion#text
+urn:cite2:hmt:e3markers.v1:294r_4#<num>ιζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_293v_294r@0.7795,0.4665,0.01891,0.04312#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_294rv_4#urn:cts:greekLit:tlg0012.tlg001.e3:23.2@ἐπειδὴ
+urn:cite2:hmt:e3markers.v1:294r_5#<num>ιη</num>#urn:cite2:hmt:e3bifolio.v1:E3_293v_294r@0.7781,0.6201,0.01746,0.02754#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_294r_5#urn:cts:greekLit:tlg0012.tlg001.e3:23.3@ἐσκίδναντο
+urn:cite2:hmt:e3markers.v1:294r_6#<num>ιθ</num>#urn:cite2:hmt:e3bifolio.v1:E3_293v_294r@0.4809,0.7464,0.01376,0.02844#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_294r_6#urn:cts:greekLit:tlg0012.tlg001.e3:23.4@ἀποσκίδνασθαι
+urn:cite2:hmt:e3markers.v1:294r_7#<num>κ</num>#urn:cite2:hmt:e3bifolio.v1:E3_293v_294r@0.4811,0.7679,0.01074,0.02428#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_294r_7#urn:cts:greekLit:tlg0012.tlg001.e3:23.7@ὄχεσφι
+urn:cite2:hmt:e3markers.v1:294r_8#
+urn:cite2:hmt:e3markers.v1:294r_9#<num>κα</num>#urn:cite2:hmt:e3bifolio.v1:E3_293v_294r@0.4816,0.7873,0.01354,0.02391#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_294r_9#urn:cts:greekLit:tlg0012.tlg001.e3:23.10@τεταρπώμεσθα
+=======
 urn#reading#image#scholion#text
+>>>>>>> a02e81c4b22234b01d75acdb9e744ce158f423d7
