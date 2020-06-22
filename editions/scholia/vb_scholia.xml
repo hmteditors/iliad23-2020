@@ -112,7 +112,27 @@
                 </p>
                 </div>
               </div>
+<<<<<<< HEAD
                 <div n="msB_303v_1" type="scholion">
+=======
+              <!--
+              <div n="msB_303r_9" type="scholion">
+                <div n="lemma">
+                  <p>
+                    <num value="21">κα</num>
+                  </p>
+                </div>
+                <div n="ref">
+                  <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.12</p>
+                </div>
+                <div n="comment">
+                  <p>
+                    <p><persName n="urn:cite2:hmt:pers.v1:pers225">Αἰσχύλος</persName> φησὶν. ὅτι στεναγμὶ; τῶν πόνων ἰάματα οὐ μέτρια τυγχάνουσιν⁑</p>
+                  </p>
+                  </div>
+                </div>
+                <div n="msB_303v" type="scholion">
+>>>>>>> a02e81c4b22234b01d75acdb9e744ce158f423d7
                   <div n="lemma">
                     <p>
                       <num value="1">α</num>
@@ -123,7 +143,14 @@
                   </div>
                   <div n="comment">
                     <p>
+<<<<<<< HEAD
                       <p>ἰάσατο τὸ ἀπρεπὲσ τοῦ κλαίειν ἐνόπλουσ στρατιώτασ, διὰ τῆσ <persName n="urn:cite2:hmt:pers.v1:pers19">θέτιδοσ</persName>~ καὶ ἦρξε μὲν τῆσ οἰμωγῆσ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεὺσ</persName>~ οἱ δὲ συνωίμωξαν~ ὥσπερ ἐνδόσιμον λαβόντεσ καιρὸν ὑπ' αὐτοῦ καὶ πρὸτερον μὴ κλαύσαντεσ⁑</p>
+=======
+                      <p>ἰάσατο τὸ ἀπρεπὲσ τ
+                      LEFT OFF HERE
+
+                      ⁑</p>
+>>>>>>> a02e81c4b22234b01d75acdb9e744ce158f423d7
                     </p>
                   </div>
                   </div>
@@ -142,6 +169,8 @@
                       </p>
                       </div>
                     </div>
+
+-->
     </body>
   </text>
 </group>
