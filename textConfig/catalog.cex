@@ -1,13 +1,14 @@
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#language
+urn:cts:greekLit:tlg0012.tlg001.msA:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
 urn:cts:greekLit:tlg0012.tlg001.msB:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
 urn:cts:greekLit:tlg0012.tlg001.e3:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
 urn:cts:greekLit:tlg0012.tlg001.burney86:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
 urn:cts:greekLit:tlg5026.e3.hmt:#book,scholion#Scholia to the Iliad#Escorial Upsilon 1.1#HMT project archival XML edition##true#grc
 urn:cts:greekLit:tlg5026.msB.hmt:#book,scholion#Scholia to the Iliad#Escorial Upsilon 1.1#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg5026.burney86.hmt:#book,scholion#Main scholia to the Iliad#British Library, Burney 86#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg5026.burney86int.hmt:#book,scholion#Interior scholia to the Iliad#British Library, Burney 86#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg0012.tlg001.msA:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg0012.tlg001.msAext:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg0012.tlg001.msAil:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg0012.tlg001.msAint:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
-urn:cts:greekLit:tlg0012.tlg001.msAim:#book,line#Homeric poetry#Iliad#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.burney86.hmt:#book,scholion#Scholia to the Iliad#Main scholia of British Library, Burney 86#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.burney86int.hmt:#book,scholion#Scholia to the Iliad#Interior scholia of British Library, Burney 86#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msA.hmt:#book,scholion,section#Scholia to the Iliad#Main scholia to the Venetus A manuscript#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msAext.hmt:#book,scholion,section#Scholia to the Iliad#Exterior scholia of the Venetus A manuscript#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msAil.hmt:#book,scholion,section#Scholia to the Iliad#Interlinear scholia of the Venetus A manuscript#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msAint.hmt:#book,scholion,section#Scholia to the Iliad#Interior scholia of the Venetus A manuscript#HMT project archival XML edition##true#grc
+urn:cts:greekLit:tlg5026.msAim.hmt:#book,scholion,section#Scholia to the Iliad#Intermarginal scholia of the Venetus A manuscript#HMT project archival XML edition##true#grc
