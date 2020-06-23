@@ -50,7 +50,7 @@ def validate(page: String) : Unit = {
   val dseResults = TestResultGroup(
     s"DSE validation for ${pgUrn.collection}, page ${pgUrn.objectComponent}",
     LibraryValidator.validate(pgUrn,Vector(dseValidator)))
-    
+
   new PrintWriter(s"${dir}/dse-validation.md"){write(dseResults.markdown); close;}
 
   val dseVerify = dseValidator.verify(pgUrn)
@@ -63,6 +63,9 @@ def usage: Unit = {
   println("\n\nTo validate a page:\n\tvalidate(\"PAGE_URN\")\n")
   println("Example:\n\tvalidate(\"urn:cite2:hmt:msB.v1:303v\")\n")
   println("Results will be written as markdown files in the `validation` directory.")
+  println("To test if you can load a valid library from your repository:")
+  println("\n\tloadLibrary\n")
+  println("You should run `loadLibary` before pushing to github.")
 }
 
 usage
