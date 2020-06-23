@@ -2,23 +2,17 @@
 import edu.holycross.shot.mid.validator._
 import edu.holycross.shot.citevalidator._
 import edu.holycross.shot.mid.markupreader._
-import edu.holycross.shot.mid.orthography._
 import edu.holycross.shot.cite._
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.scm._
 import org.homermultitext.edmodel._
 import edu.holycross.shot.greek._
-
 import java.io.File
 import java.io.PrintWriter
 
 
 def readersMap : Map[String, Vector[MidMarkupReader]] = Map(
   "DiplomaticReader" ->   Vector(DiplomaticReader)
-)
-
-def orthoMap : Map[String, MidOrthography] = Map(
-  "LiteraryGreekString" ->   LiteraryGreekString
 )
 
 // Create a library object from a repository with
@@ -43,25 +37,53 @@ def indexPage(pgUrn: Cite2Urn, validators: Vector[CiteValidator[Any]], results: 
 
 }
 
+def libForTexts(lib: CiteLibrary, ctsUrn: CtsUrn) : CiteLibrary = {
+  val newTextRepo = lib.textRepository.get ~~ ctsUrn
+  CiteLibrary(
+    lib.name,
+    lib.urn,
+    lib.license,
+    lib.namespaces,
+    Some(newTextRepo),
+    lib.collectionRepository,
+    lib.relationSet,
+    lib.dataModels
+  )
+}
+
 // Validate one page of editorial work.
 def validate(page: String) : Unit = {
   val pgUrn = Cite2Urn(page)
   val dir = reportsDir(pgUrn)
   val lib = loadLibrary
-  val dseValidator = DseValidator(lib)
+  val iliadLib = libForTexts(lib, CtsUrn("urn:cts:greekLit:tlg0012.tlg001:"))
 
-  val allValidators = Vector(dseValidator)
+
+  val dseValidator = DseValidator(lib)
+  val litGreekValidator = LGSValidator(iliadLib)
+  val allValidators = Vector(dseValidator, litGreekValidator)
   val total = LibraryValidator.validate(pgUrn, allValidators)
   new PrintWriter(s"${dir}/index.md"){write(indexPage(pgUrn, allValidators, total)); close;}
+
+
+
+
+
+  val litGreekResults = TestResultGroup(
+    s"Validation of LiteryGreekStrings for ${pgUrn.collection}, page ${pgUrn.objectComponent}",
+    LibraryValidator.validate(pgUrn,Vector(litGreekValidator)))
+  new PrintWriter(s"${dir}/litgreek-validation.md"){write(litGreekResults.markdown); close;}
 
   val dseResults = TestResultGroup(
     s"DSE validation for ${pgUrn.collection}, page ${pgUrn.objectComponent}",
     LibraryValidator.validate(pgUrn,Vector(dseValidator)))
-
   new PrintWriter(s"${dir}/dse-validation.md"){write(dseResults.markdown); close;}
 
   val dseVerify = dseValidator.verify(pgUrn)
   new PrintWriter(s"${dir}/dse-verification.md"){write(dseVerify); close;}
+
+  val litGreekVerify = litGreekValidator.verify(pgUrn)
+  new PrintWriter(s"${dir}/litgreek-verification.md"){write(litGreekVerify); close;}
 
 }
 
@@ -70,9 +92,6 @@ def usage: Unit = {
   println("\n\nTo validate a page:\n\tvalidate(\"PAGE_URN\")\n")
   println("Example:\n\tvalidate(\"urn:cite2:hmt:msB.v1:303v\")\n")
   println("Results will be written as markdown files in the `validation` directory.")
-  println("\nTo test if you can load a valid library from your repository:")
-  println("\tloadLibrary\n")
-  println("You should run `loadLibary` before pushing to github.")
 }
 
 usage
