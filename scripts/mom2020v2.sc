@@ -5,6 +5,7 @@ import edu.holycross.shot.mid.markupreader._
 import edu.holycross.shot.cite._
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.scm._
+import edu.holycross.shot.dse._
 import org.homermultitext.edmodel._
 import edu.holycross.shot.greek._
 import java.io.File
@@ -65,11 +66,12 @@ def libForTexts(lib: CiteLibrary, ctsUrn: CtsUrn) : CiteLibrary = {
   )
 }
 
+
 // Validate one page of editorial work.
-def validate(page: String) : Unit = {
+def validate(page: String, lib: CiteLibrary = loadLibrary) : Vector[TestResult[Any]] = {
   val pgUrn = Cite2Urn(page)
   val dir = reportsDir(pgUrn)
-  val lib = loadLibrary
+  //val lib = loadLibrary
   val iliadLib = libForTexts(lib, CtsUrn("urn:cts:greekLit:tlg0012.tlg001:"))
 
 
@@ -79,27 +81,49 @@ def validate(page: String) : Unit = {
   val total = LibraryValidator.validate(pgUrn, allValidators)
   new PrintWriter(s"${dir}/index.md"){write(indexPage(pgUrn, allValidators, total)); close;}
 
-
-
-
-
   val litGreekResults = TestResultGroup(
     s"Validation of LiteryGreekStrings for ${pgUrn.collection}, page ${pgUrn.objectComponent}",
     LibraryValidator.validate(pgUrn,Vector(litGreekValidator)))
   new PrintWriter(s"${dir}/litgreek-validation.md"){write(litGreekResults.markdown); close;}
+  val litGreekVerify = litGreekValidator.verify(pgUrn)
+  new PrintWriter(s"${dir}/litgreek-verification.md"){write(litGreekVerify); close;}
+
 
   val dseResults = TestResultGroup(
     s"DSE validation for ${pgUrn.collection}, page ${pgUrn.objectComponent}",
     LibraryValidator.validate(pgUrn,Vector(dseValidator)))
   new PrintWriter(s"${dir}/dse-validation.md"){write(dseResults.markdown); close;}
-
   val dseVerify = dseValidator.verify(pgUrn)
   new PrintWriter(s"${dir}/dse-verification.md"){write(dseVerify); close;}
-
-  val litGreekVerify = litGreekValidator.verify(pgUrn)
-  new PrintWriter(s"${dir}/litgreek-verification.md"){write(litGreekVerify); close;}
-
+  total
 }
+
+// recursively collect
+def sumResults(src: Vector[Vector[TestResult[Any]]], total: Vector[TestResult[Any]] = Vector.empty[TestResult[Any]]) : TestResultGroup = {
+  if (src.isEmpty) {
+    TestResultGroup("Results of validating all pages in repository", total)
+  } else {
+    sumResults(src.tail, total ++ src.head)
+  }
+}
+
+def validateAll : Unit = {
+  val lib = loadLibrary
+  val dsev = DseVector.fromCiteLibrary(lib)
+  val surfaces = dsev.tbs.toVector
+  println("Validating " + surfaces.size + " pages.")
+  val rslts = for (pg <- surfaces) yield {
+    validate(pg.toString, lib)
+  }
+
+  val summed = sumResults(rslts)
+  val summary = "# Validation results\n\n" +
+    s"Results for **${surfaces.size}** pages\n\n" +
+    s"Totals (success/total): **${summed.results.filter(_.success).size} / ${summed.results.size}**\n\nFor details, see validation and verification reports for each page."
+  new PrintWriter("validation/overview.md"){write(summary);close;}
+  summed.write("validation/default-summary.md")
+}
+
 
 // Tell them how to use the script.
 def usage: Unit = {
