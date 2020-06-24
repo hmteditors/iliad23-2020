@@ -66,8 +66,9 @@ def libForTexts(lib: CiteLibrary, ctsUrn: CtsUrn) : CiteLibrary = {
   )
 }
 
+
 // Validate one page of editorial work.
-def validate(page: String, lib: CiteLibrary = loadLibrary) : Unit = {
+def validate(page: String, lib: CiteLibrary = loadLibrary) : Vector[TestResult[Any]] = {
   val pgUrn = Cite2Urn(page)
   val dir = reportsDir(pgUrn)
   //val lib = loadLibrary
@@ -94,20 +95,36 @@ def validate(page: String, lib: CiteLibrary = loadLibrary) : Unit = {
   new PrintWriter(s"${dir}/dse-validation.md"){write(dseResults.markdown); close;}
   val dseVerify = dseValidator.verify(pgUrn)
   new PrintWriter(s"${dir}/dse-verification.md"){write(dseVerify); close;}
+  total
 }
 
-
+// recursively collect
+def sumResults(src: Vector[Vector[TestResult[Any]]], total: Vector[TestResult[Any]] = Vector.empty[TestResult[Any]]) : TestResultGroup = {
+  if (src.isEmpty) {
+    TestResultGroup("Results of validating all pages in repository", total)
+  } else {
+    sumResults(src.tail, total ++ src.head)
+  }
+}
 
 def validateAll : Unit = {
   val lib = loadLibrary
   val dsev = DseVector.fromCiteLibrary(lib)
-  val surfaces = dsev.tbs
+  val surfaces = dsev.tbs.toVector
   println("Validating " + surfaces.size + " pages.")
-  for (pg <- surfaces) {
+  val rslts = for (pg <- surfaces) yield {
     validate(pg.toString, lib)
   }
 
+  val summed = sumResults(rslts)
+  val summary = "# Validation results\n\n" +
+    s"Results for **${surfaces.size}** pages\n\n" +
+    s"Totals (success/total): **${summed.results.filter(_.success).size} / ${summed.results.size}**\n\nFor details, see validation and verification reports for each page."
+  new PrintWriter("validation/overview.md"){write(summary);close;}
+  summed.write("validation/default-summary.md")
 }
+
+
 // Tell them how to use the script.
 def usage: Unit = {
   println("\n\nTo validate a page:\n\tvalidate(\"PAGE_URN\")\n")
