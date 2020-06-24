@@ -5,6 +5,7 @@ import edu.holycross.shot.mid.markupreader._
 import edu.holycross.shot.cite._
 import edu.holycross.shot.ohco2._
 import edu.holycross.shot.scm._
+import edu.holycross.shot.dse._
 import org.homermultitext.edmodel._
 import edu.holycross.shot.greek._
 import java.io.File
@@ -66,10 +67,10 @@ def libForTexts(lib: CiteLibrary, ctsUrn: CtsUrn) : CiteLibrary = {
 }
 
 // Validate one page of editorial work.
-def validate(page: String) : Unit = {
+def validate(page: String, lib: CiteLibrary = loadLibrary) : Unit = {
   val pgUrn = Cite2Urn(page)
   val dir = reportsDir(pgUrn)
-  val lib = loadLibrary
+  //val lib = loadLibrary
   val iliadLib = libForTexts(lib, CtsUrn("urn:cts:greekLit:tlg0012.tlg001:"))
 
 
@@ -79,28 +80,34 @@ def validate(page: String) : Unit = {
   val total = LibraryValidator.validate(pgUrn, allValidators)
   new PrintWriter(s"${dir}/index.md"){write(indexPage(pgUrn, allValidators, total)); close;}
 
-
-
-
-
   val litGreekResults = TestResultGroup(
     s"Validation of LiteryGreekStrings for ${pgUrn.collection}, page ${pgUrn.objectComponent}",
     LibraryValidator.validate(pgUrn,Vector(litGreekValidator)))
   new PrintWriter(s"${dir}/litgreek-validation.md"){write(litGreekResults.markdown); close;}
+  val litGreekVerify = litGreekValidator.verify(pgUrn)
+  new PrintWriter(s"${dir}/litgreek-verification.md"){write(litGreekVerify); close;}
+
 
   val dseResults = TestResultGroup(
     s"DSE validation for ${pgUrn.collection}, page ${pgUrn.objectComponent}",
     LibraryValidator.validate(pgUrn,Vector(dseValidator)))
   new PrintWriter(s"${dir}/dse-validation.md"){write(dseResults.markdown); close;}
-
   val dseVerify = dseValidator.verify(pgUrn)
   new PrintWriter(s"${dir}/dse-verification.md"){write(dseVerify); close;}
-
-  val litGreekVerify = litGreekValidator.verify(pgUrn)
-  new PrintWriter(s"${dir}/litgreek-verification.md"){write(litGreekVerify); close;}
-
 }
 
+
+
+def validateAll : Unit = {
+  val lib = loadLibrary
+  val dsev = DseVector.fromCiteLibrary(lib)
+  val surfaces = dsev.tbs
+  println("Validating " + surfaces.size + " pages.")
+  for (pg <- surfaces) {
+    validate(pg.toString, lib)
+  }
+
+}
 // Tell them how to use the script.
 def usage: Unit = {
   println("\n\nTo validate a page:\n\tvalidate(\"PAGE_URN\")\n")
