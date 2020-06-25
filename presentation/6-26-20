@@ -1,4 +1,4 @@
-# Presentation Name
+# What Have We Been Working On? 
 ##  Friday, June 26th
 Natalie DiMattia,
 Luke Giuntoli,
@@ -10,19 +10,51 @@ Anne-Catherine Schaaf
 ## Zipf-y Scholia
 
 ---
-Zipf's Law:
+Zipf's Law: given some corpus of natural language utterances, the frequency of any word is inversely proportional to its rank in the frequency table. - "Zipf's Law", *Wikipedia*
 
 ----
-[Zipfy Scholia Notebook](add link)
-Maybe a list of the top 100 words?
+[Zipfy Scholia Notebook](https://github.com/nadimattia/summer2020notebooks/blob/master/zipfyScholia.ipynb)
+
+Full Zipf Graph
+<img src="https://github.com/nadimattia/summer2020notebooks/blob/master/fullGraphvAschol.png?raw=true"/>
+
+Top Half:
+<img src="https://github.com/nadimattia/summer2020notebooks/blob/master/shortGraphvAschol.png?raw=true"/>
 
 ---
-*image of graph
+
+**Top 10 Words in vA Scholia:**
+
+| Word | Frequency |
+|---|---|
+| καὶ | 6708 |
+τὸ | 5311
+δὲ | 5006
+τοῦ | 3757
+ὅτι | 2743
+γὰρ|2406
+ὁ|2116
+τὴν|1899
+ὡς|1812
+ἡ|1771
+
+---
+
+**Interesting Finds in Top 100 Words:**
+
+| Word | Frequency |
+|---|---|
+λέγει | 377
+Ἀρίσταρχος | 266
+γράφει | 242
+Ζηνόδοτος | 224
+φησὶ | 168
+βραχὺ | 165
 
 ---
 ## Vertical Variation
 ---
-[Vertical Variation Notebook](add link)
+[Vertical Variation Notebook](https://github.com/nadimattia/summer2020notebooks/blob/master/fourwayVerticalVariation.ipynb)
 
 The only minus verses in the Burney 86 and Venetus A compared to the Venetus B are the title lines which were not included in the editions of the Venetus A and Burney 86.
 
@@ -39,7 +71,7 @@ Otherwise lines 1-36 of all four manuscripts are the same - as confirmed by test
 ### Venetus A Title
 <img src="http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vaimg/2017a/VA292VN_0794.tif&RGN=0.5615,0.4833,0.1969,0.04232&wID=5000&CVT=JPEG"/>
 
-### Townley Title 
+### Townley Title
 <img src="http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/citebl/burney86imgs/v1/burney_ms_86_f250r.tif&RGN=0.1174,0.3011,0.4448,0.03147&wID=5000&CVT=JPEG">
 
-----
+---
