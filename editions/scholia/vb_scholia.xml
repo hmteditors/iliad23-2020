@@ -138,11 +138,25 @@
                     </div>
                     <div n="comment">
                       <p>
-                        <p>τινὲσ διαστέλλουσιν ἐ⁑</p>
+                        <p>τινὲσ διαστέλλουσιν ἐπὶ τὸ τεύχεα~ ἵνα φασὶ τοῖσ τῶν <choice><abbr>ἀνών</abbr><expan>ἀνθρώπων</expan></choice> δάκρυσιν, αἵ τε ψάμαθοι καὶ τὰ ὅπλα βρέχηται~ τερατῶδεσ γὰρ τὸ δακρύειν τὰ ὅπλα⁑</p>
                       </p>
                       </div>
                     </div>
-
+                    <div n="msB_303v_3" type="scholion">
+                      <div n="lemma">
+                        <p>
+                          <num value="3">γ</num>
+                        </p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.16</p>
+                      </div>
+                      <div n="comment">
+                        <p>
+                          <p>αὐξητικῶσ καὶ θαυμαστικῶσ μετ' ἐμφάσεωσ~ ⁑</p>
+                        </p>
+                        </div>
+                      </div>
 -->
     </body>
   </text>
