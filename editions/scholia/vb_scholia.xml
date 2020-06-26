@@ -153,11 +153,175 @@
                       </div>
                       <div n="comment">
                         <p>
-                          <p>αὐξητικῶσ καὶ θαυμαστικῶσ μετ' ἐμφάσεωσ~ ⁑</p>
+                          <p>αὐξητικῶσ καὶ θαυμαστικῶσ μετ' ἐμφάσεωσ~ ἵν' ἦ τὸν μέγαν χαὶ περιβόητον~ οἱ δὲ γλωσσογράφοι ἀντὶ τοῦ ἀγαθὸν ἤκουσαν⁑</p>
                         </p>
                         </div>
                       </div>
--->
+                      <div n="msB_303v_4" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value="4">δ</num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.16</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>μήσασθαι φυγὴν πολεμίοισ δυνάμενον⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_5" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value="5">ε</num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.17</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>ἀθρόου οἰκτροῦ~ δεῖ γὰρ ἐν τοῖσ θρήνοισ προϊέναι μὲν ἀθρόον τὸ <choice><abbr>πνᾶ</abbr><expan>πνεῦμα</expan></choice>, μὴ δυνάμενον δὲ φέρειν ὑπεκλύεσθαι⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_6" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value="6">ϝ</num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.18</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>δίχα δύναται λέγεσθαι~ ἐάν τε αὐτὸσ ἦ ὁ τὰσχεῖρασ ἐπιθεὶσ τῷ φίλῳ~ ἐάν τε τὰσ ἐκείνου χεῖρασ τοῖσ ἑαυτοῦ στήθεσιν ἐπιθείσ⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_7" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value="7">ζ</num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.19</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>οἴκτου κινητικὸν ἡ πρὸσ νεκροὺσ ὁμιλία~ κατέχεται δὲ τῇ κοινῇ ἐννοίᾳ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεὺσ</persName>~ καὶ ἔοικεν ἀηδέσ τι τὸν θάνατον ὑπειλεφέναι~ τοῦτο γοῦν ἐν ὑπερβολῇ φησίν~ καὶ εἰν <persName n="urn:cite2:hmt:pers.v1:pers201">Ἀΐδαο</persName> δόμοισιν ὢν χαῖρε~ οἷον εἰ ἔστι παραμυθία τοῖσ τετελευκόσι, ταύτην δέχου παρ' ἡμῶν⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_8" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value="8">η</num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.21</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>ὠμῶσ ἀπομερίσασθαι~ εἰώθασι δὲ οἱ κύνεσ ἄλλοσ ἄλλοσε ἀποσπᾶν καὶ μερίζεσθαι τὸ σῶμα⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_9" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value="9">θ</num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.24</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>ἀπεοικότα καὶ ἀπρεπῆ~ τοῦτο δέ ἐστι τὸ ἐπὶ στόμα ἐκτεῖναι τὸ σῶμα καὶ ἐνυβρίζειν τῷ οὐκ ἀντιλαμβανομένῳ~ ἢ τοῦτο ἀεικὲσ τὸ τὸν μείζω παρὰ τῇ τοῦ ἥσσονοσ ἐρρίφθαι σκηνῇ⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_9" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.31</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>οὐκέτι ὀρέχθεον ἀλλ' ἐμήκαζον~ ἡ δὲ ἐπανάληψισ τοῦ πολλοὶ. τὸ πλῆθοσ ἐπφαίνει καὶ τὸ ἀόριστον⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_10" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.33</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>εὕειν ἐστὶ τὸ ἀποκαίειν τὰσ τρίκασ⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_11" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.36</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>ἀντὶ τοῦ πρόσ⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_12" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value="10">ι</num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.24</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>νῦν ἀντὶ τοῦ εἰργάζετο ἐποίει⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                      <div n="msB_303v_13" type="scholion">
+                        <div n="lemma">
+                          <p>
+                            <num value=""></num>
+                          </p>
+                        </div>
+                        <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.26</p>
+                        </div>
+                        <div n="comment">
+                          <p>
+                            <p>ἀντὶ τούτων δὲ ἕκαστοσ⁑</p>
+                          </p>
+                        </div>
+                      </div>
     </body>
   </text>
 </group>
