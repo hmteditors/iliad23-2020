@@ -247,22 +247,7 @@
                           </p>
                         </div>
                       </div>
-                      <div n="msB_303v_9" type="scholion">
-                        <div n="lemma">
-                          <p>
-                            <num value=""></num>
-                          </p>
-                        </div>
-                        <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.31</p>
-                        </div>
-                        <div n="comment">
-                          <p>
-                            <p>οὐκέτι ὀρέχθεον ἀλλ' ἐμήκαζον~ ἡ δὲ ἐπανάληψισ τοῦ πολλοὶ. τὸ πλῆθοσ ἐπφαίνει καὶ τὸ ἀόριστον⁑</p>
-                          </p>
-                        </div>
-                      </div>
-                      <div n="msB_303v_10" type="scholion">
+                    <div n="msB_303v_10" type="scholion">
                         <div n="lemma">
                           <p>
                             <num value=""></num>
