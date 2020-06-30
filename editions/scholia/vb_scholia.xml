@@ -112,96 +112,96 @@
             </p>
           </div>
       </div>
-                <div n="msB_303v_1" type="scholion">
-                  <div n="lemma">
-                    <p>
-                      <num value="1">α</num>
-                    </p>
-                  </div>
-                  <div n="ref">
-                    <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.14</p>
-                  </div>
-                  <div n="comment">
-                    <p>
-                      <p>ἰάσατο τὸ ἀπρεπὲς τοῦ κλαίειν ἐνόπλους στρατιώτας, διὰ τῆς <persName n="urn:cite2:hmt:pers.v1:pers19">θέτιδος</persName>~ καὶ ἦρξε μὲν τῆς οἰμωγῆς <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεὺς</persName>~ οἱ δὲ συνωίμωξαν~ ὥσπερ ἐνδόσιμον λαβόντες καιρὸν ὑπ' αὐτοῦ καὶ πρὸτερον μὴ κλαύσαντες⁑</p>
-                    </p>
-                  </div>
-                  </div>
-                  <div n="msB_303v_2" type="scholion">
-                    <div n="lemma">
-                      <p>
-                        <num value="2">β</num>
-                      </p>
-                    </div>
-                    <div n="ref">
-                      <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.15</p>
-                    </div>
-                    <div n="comment">
-                      <p>
-                        <p>τινὲς διαστέλλουσιν ἐπὶ τὸ τεύχεα~ ἵνα φασὶ τοῖς τῶν <choice><abbr>ἀνών</abbr><expan>ἀνθρώπων</expan></choice> δάκρυσιν, αἵ τε ψάμαθοι καὶ τὰ ὅπλα βρέχηται~ τερατῶδες γὰρ τὸ δακρύειν τὰ ὅπλα⁑</p>
-                      </p>
-                      </div>
-                    </div>
-                    <div n="msB_303v_3" type="scholion">
-                      <div n="lemma">
-                        <p>
-                          <num value="3">γ</num>
-                        </p>
-                      </div>
-                      <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.16</p>
-                      </div>
-                      <div n="comment">
-                        <p>
-                          <p>αὐξητικῶς καὶ θαυμαστικῶς μετ' ἐμφάσεως~ ἵν' ἦ τὸν μέγαν χαὶ περιβόητον~ οἱ δὲ γλωσσογράφοι ἀντὶ τοῦ ἀγαθὸν ἤκουσαν⁑</p>
-                        </p>
-                        </div>
-                      </div>
-                      <div n="msB_303v_4" type="scholion">
-                        <div n="lemma">
-                          <p>
-                            <num value="4">δ</num>
-                          </p>
-                        </div>
-                        <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.16</p>
-                        </div>
-                        <div n="comment">
-                          <p>
-                            <p>μήσασθαι φυγὴν πολεμίοις δυνάμενον⁑</p>
-                          </p>
-                        </div>
-                      </div>
-                      <div n="msB_303v_5" type="scholion">
-                        <div n="lemma">
-                          <p>
-                            <num value="5">ε</num>
-                          </p>
-                        </div>
-                        <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.17</p>
-                        </div>
-                        <div n="comment">
-                          <p>
-                            <p>ἀθρόου οἰκτροῦ~ δεῖ γὰρ ἐν τοῖσ θρήνοις προϊέναι μὲν ἀθρόον τὸ <choice><abbr>πνᾶ</abbr><expan>πνεῦμα</expan></choice>, μὴ δυνάμενον δὲ φέρειν ὑπεκλύεσθαι⁑</p>
-                          </p>
-                        </div>
-                      </div>
-                      <div n="msB_303v_6" type="scholion">
-                        <div n="lemma">
-                          <p>
-                            <num value="6">ϝ</num>
-                          </p>
-                        </div>
-                        <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.18</p>
-                        </div>
-                        <div n="comment">
-                          <p>
-                            <p>δίχα δύναται λέγεσθαι~ ἐάν τε αὐτὸς ἦ ὁ τὰσχεῖρας ἐπιθεὶς τῷ φίλῳ~ ἐάν τε τὰσ ἐκείνου χεῖρας τοῖς ἑαυτοῦ στήθεσιν ἐπιθείς⁑</p>
-                          </p>
-                        </div>
-                      </div>
+      <div n="msB_303v_1" type="scholion">
+          <div n="lemma">
+            <p>
+              <num value="1">α</num>
+            </p>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.14</p>
+          </div>
+          <div n="comment">
+            <p>
+              <p>ἰάσατο τὸ ἀπρεπὲς τοῦ κλαίειν ἐνόπλους στρατιώτας, διὰ τῆς <persName n="urn:cite2:hmt:pers.v1:pers19">θέτιδος</persName>~ καὶ ἦρξε μὲν τῆς οἰμωγῆς <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεὺς</persName>~ οἱ δὲ συνωίμωξαν~ ὥσπερ ἐνδόσιμον λαβόντες καιρὸν ὑπ' αὐτοῦ καὶ πρὸτερον μὴ κλαύσαντες⁑</p>
+            </p>
+          </div>
+      </div>
+      <div n="msB_303v_2" type="scholion">
+          <div n="lemma">
+            <p>
+              <num value="2">β</num>
+            </p>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.15</p>
+          </div>
+          <div n="comment">
+            <p>
+              <p>τινὲς διαστέλλουσιν ἐπὶ τὸ τεύχεα~ ἵνα φασὶ τοῖς τῶν <choice><abbr>ἀνών</abbr><expan>ἀνθρώπων</expan></choice> δάκρυσιν, αἵ τε ψάμαθοι καὶ τὰ ὅπλα βρέχηται~ τερατῶδες γὰρ τὸ δακρύειν τὰ ὅπλα⁑</p>
+            </p>
+          </div>
+      </div>
+      <div n="msB_303v_3" type="scholion">
+          <div n="lemma">
+            <p>
+              <num value="3">γ</num>
+            </p>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.16</p>
+          </div>
+          <div n="comment">
+            <p>
+              <p>αὐξητικῶς καὶ θαυμαστικῶς μετ' ἐμφάσεως~ ἵν' ἦ τὸν μέγαν χαὶ περιβόητον~ οἱ δὲ γλωσσογράφοι ἀντὶ τοῦ ἀγαθὸν ἤκουσαν⁑</p>
+            </p>
+          </div>
+      </div>
+      <div n="msB_303v_4" type="scholion">
+          <div n="lemma">
+            <p>
+              <num value="4">δ</num>
+            </p>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.16</p>
+          </div>
+          <div n="comment">
+            <p>
+              <p>μήσασθαι φυγὴν πολεμίοις δυνάμενον⁑</p>
+            </p>
+          </div>
+      </div>
+      <div n="msB_303v_5" type="scholion">
+          <div n="lemma">
+            <p>
+              <num value="5">ε</num>
+            </p>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.17</p>
+          </div>
+          <div n="comment">
+            <p>
+              <p>ἀθρόου οἰκτροῦ~ δεῖ γὰρ ἐν τοῖσ θρήνοις προϊέναι μὲν ἀθρόον τὸ <choice><abbr>πνᾶ</abbr><expan>πνεῦμα</expan></choice>, μὴ δυνάμενον δὲ φέρειν ὑπεκλύεσθαι⁑</p>
+            </p>
+          </div>
+      </div>
+      <div n="msB_303v_6" type="scholion">
+          <div n="lemma">
+            <p>
+              <num value="6">ϝ</num>
+            </p>
+          </div>
+          <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.18</p>
+          </div>
+          <div n="comment">
+            <p>
+              <p>δίχα δύναται λέγεσθαι~ ἐάν τε αὐτὸς ἦ ὁ τὰσχεῖρας ἐπιθεὶς τῷ φίλῳ~ ἐάν τε τὰσ ἐκείνου χεῖρας τοῖς ἑαυτοῦ στήθεσιν ἐπιθείς⁑</p>
+            </p>
+          </div>
+      </div>
                       <div n="msB_303v_7" type="scholion">
                         <div n="lemma">
                           <p>
@@ -247,7 +247,22 @@
                           </p>
                         </div>
                       </div>
-                    <div n="msB_303v_10" type="scholion">
+                      <div n="msB_303v_10" type="scholion">
+                          <div n="lemma">
+                            <p>
+                              <num value=""></num>
+                            </p>
+                          </div>
+                          <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.31</p>
+                          </div>
+                          <div n="comment">
+                            <p>
+                              <p>οὐκ ἔτι ὀρέχθεον ἀλλ' ἐμήκαζον~ ἠ δὲ ἐπανάληψις τοῦ πολλοὶ. τὸ πλῆθος ἐμφαίνει καὶ τὸ ἀόριστον⁑</p>
+                            </p>
+                          </div>
+                        </div>
+                    <div n="msB_303v_11" type="scholion">
                         <div n="lemma">
                           <p>
                             <num value=""></num>
@@ -262,7 +277,7 @@
                           </p>
                         </div>
                       </div>
-                      <div n="msB_303v_11" type="scholion">
+                      <div n="msB_303v_12" type="scholion">
                         <div n="lemma">
                           <p>
                             <num value=""></num>
@@ -277,7 +292,7 @@
                           </p>
                         </div>
                       </div>
-                      <div n="msB_303v_12" type="scholion">
+                      <div n="msB_303v_13" type="scholion">
                         <div n="lemma">
                           <p>
                             <num value="10">ι</num>
@@ -292,7 +307,7 @@
                           </p>
                         </div>
                       </div>
-                      <div n="msB_303v_13" type="scholion">
+                      <div n="msB_303v_14" type="scholion">
                         <div n="lemma">
                           <p>
                             <num value=""></num>
@@ -307,7 +322,7 @@
                           </p>
                         </div>
                       </div>
-                      <div n="msB_303v_14" type="scholion">
+                      <div n="msB_303v_15" type="scholion">
                         <div n="lemma">
                           <p>
                             <num value="11">ια</num>
@@ -322,7 +337,7 @@
                           </p>
                         </div>
                       </div>
-                      <div n="msB_303v_15" type="scholion">
+                      <div n="msB_303v_16" type="scholion">
                         <div n="lemma">
                           <p>
                             <num value="12">ιβ</num>
@@ -332,6 +347,21 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.29</p>
                         </div>
                         <div n="comment">
+                          <p>
+                            <p>ἢ τὴν μητὰ τὸν τάφον εὐωχὶαν. ἵν' ᾖ τὸ δαίνυ, ἀντὶ τοῦ παρεσκεύαζεν~ ἢ τὴν πρὸ τοῦ τάφου, ἵνα δύο εὐωχίαι ὦσιν~ ἡ μὲν πρὸ τοῦ τάφου πρὸς τὸ προθύμως ὑπουργῆσαι τῇ ταφῇ~ ἡ δὲ μετὰ τὸν τάφον~ διὰ τὸν ἐκ τῆς ταφῆς κόπον καὶ εἰς εὔκλειαν τοῦ ταφέντος⁑</p>
+                          </p>
+                        </div>
+                      </div>
+                <div n="msB_303v_15" type="scholion">
+                    <div n="lemma">
+                        <p>
+                          <num value="12">ιβ</num>
+                        </p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.29</p>
+                    </div>
+                    <div n="comment">
                           <p>
                             <p>ἢ τὴν μητὰ τὸν τάφον εὐωχὶαν. ἵν' ᾖ τὸ δαίνυ, ἀντὶ τοῦ παρεσκεύαζεν~ ἢ τὴν πρὸ τοῦ τάφου, ἵνα δύο εὐωχίαι ὦσιν~ ἡ μὲν πρὸ τοῦ τάφου πρὸς τὸ προθύμως ὑπουργῆσαι τῇ ταφῇ~ ἡ δὲ μετὰ τὸν τάφον~ διὰ τὸν ἐκ τῆς ταφῆς κόπον καὶ εἰς εὔκλειαν τοῦ ταφέντος⁑</p>
                           </p>
