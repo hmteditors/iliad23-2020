@@ -352,51 +352,53 @@
                           </p>
                         </div>
                       </div>
-                <div n="msB_303v_15" type="scholion">
+                <div n="msB_303v_17" type="scholion">
                     <div n="lemma">
                         <p>
-                          <num value="12">ιβ</num>
+                          <num value="13">ιγ</num>
                         </p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.29</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.30</p>
                     </div>
                     <div n="comment">
                           <p>
-                            <p>ἢ τὴν μητὰ τὸν τάφον εὐωχὶαν. ἵν' ᾖ τὸ δαίνυ, ἀντὶ τοῦ παρεσκεύαζεν~ ἢ τὴν πρὸ τοῦ τάφου, ἵνα δύο εὐωχίαι ὦσιν~ ἡ μὲν πρὸ τοῦ τάφου πρὸς τὸ προθύμως ὑπουργῆσαι τῇ ταφῇ~ ἡ δὲ μετὰ τὸν τάφον~ διὰ τὸν ἐκ τῆς ταφῆς κόπον καὶ εἰς εὔκλειαν τοῦ ταφέντος⁑</p>
+                            <p>ταχεῖς, ἀλλὰ εἰλίποδες~ λευχοὶ. ἀλλ' οὐ θύεται λευκὰ τοῖς τεθνεῶσι~ δῆλον γὰρ ἐκ τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.527</ref><q>ἔνθ' ὄϊν ἀρνειὸν ῥέξειν, θῆλυν τε καὶ μέλαιναι</q></cit>~ καὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.524</ref><q>ὄϊν ἱερευσέμεν οἴῳ παμμίλανα</q></cit>~ ἢ οὖν μετὰ τὸ ἐκδαρῆναι διὰ τὴν πιμελὴν, ἢ ὅτι οὐτῷ <persName n="urn:cite2:hmt:pers.v1:pers158">Πατρόκλῳ</persName> ἀλλ' εἰς τὸν δεῖπνον τῶν ζώντων τοὺς βόας ἔθυον⁑</p>
                           </p>
                         </div>
-                      </div>
-                      <div n="msB_303v_14" type="scholion">
-                        <div n="lemma">
-                          <p>
-                            <num value="11">ια</num>
-                          </p>
-                        </div>
-                        <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.27</p>
-                        </div>
-                        <div n="comment">
-                          <p>
-                            <p>ὑψοῦ ἠχοῦντας~ φησὶ γοῦν <cit type="urn">urn:cts:greekLit:tlg0012.tlg001:5.504<ref></ref><q><choice><abbr>οὐνὸν</abbr><expan>οὐρανὸν</expan></choice> ἐς πολύκαλκον ἐπέπληγον πόδες ἵππων</q></cit>, ἢ ὑψοῦ ἀνέχοντας ἑαυτοὺς~ φησὶ γοῦν <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.509</ref><q>ὑψοῦ δὲ κάρη ἔχει</q></cit>⁑</p>
-                          </p>
-                        </div>
-                      </div>
-                      <div n="msB_303v_15" type="scholion">
-                        <div n="lemma">
-                          <p>
-                            <num value="12">ιβ</num>
-                          </p>
-                        </div>
-                        <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.29</p>
-                        </div>
-                        <div n="comment">
-                          <p>
-                            <p>ἢ τὴν μητὰ τὸν τάφον εὐωχὶαν. ἵν' ᾖ τὸ δαίνυ, ἀντὶ τοῦ παρεσκεύαζεν~ ἢ τὴν πρὸ τοῦ τάφου, ἵνα δύο εὐωχίαι ὦσιν~ ἡ μὲν πρὸ τοῦ τάφου πρὸς τὸ προθύμως ὑπουργῆσαι τῇ ταφῇ~ ἡ δὲ μετὰ τὸν τάφον~ διὰ τὸν ἐκ τῆς ταφῆς κόπον καὶ εἰς εὔκλειαν τοῦ ταφέντος⁑</p>
-                          </p>
-                        </div>
-                      </div>
+              </div>
+                  <div n="msB_303v_18" type="scholion">
+                          <div n="lemma">
+                              <p>
+                                <num value="14">ιδ</num>
+                              </p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.30</p>
+                          </div>
+                          <div n="comment">
+                                <p>
+                                  <p>κατὰ μίμησιν ἤχου τραχέος πεποίηται τὸ ῤῆμα~ ἀντὶ τοῦ ἔστενον ἀναιρούμενοι⁑</p>
+                                </p>
+                              </div>
+                            </div>
+                            <div n="msB_303v_19" type="scholion">
+                                    <div n="lemma">
+                                        <p>
+                                          <num value="15">ιε</num>
+                                        </p>
+                                    </div>
+                                    <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.34</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>
+                                            <p>οὐκ ὅτι ἥπτετο τοῦ νεκροῦ κεῖται γὰρ ἐν τοῖς λέ⁑</p>
+                                          </p>
+                                        </div>
+                                      </div>
+
+
     </body>
   </text>
 </group>
