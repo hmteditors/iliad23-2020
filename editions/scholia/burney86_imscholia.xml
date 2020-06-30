@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scholia to Burney 86</title>
+        <editor>Natalie DiMattia</editor>
+        <editor>Anne-Catherine Schaaf</editor>
+        <editor>Sophia Sarro</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcribed from Burney 86 MS</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+
+<group n="23">
+  <text n="burney86im">
+    <body>
+
+      <div n="ID" type="scholion">
+        <div n="lemma">
+          <p><num value="1">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p/>
+        </div>
+        <div n="comment">
+          <p/>
+        </div>
+      </div>
+
+    </body>
+  </text>
+</group>
+
+</text>
+</TEI>
