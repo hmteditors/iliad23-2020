@@ -22,17 +22,123 @@
   <text n="burney86int">
     <body>
 
-      <div n="ID" type="scholion">
+      <div n="ms_86_250v_1" type="scholion">
         <div n="lemma">
+          <p><num value="1">TEXT_OF_NUMBER</num></p>
           <p/>
         </div>
         <div n="ref">
-            <p><num value="1">TEXT_OF_NUMBER</num></p>
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.30</p>
         </div>
         <div n="comment">
-          <p>TEXT OF SCHOLION HERE</p>
+          <p>σιδήρῳ σφαζόμενοι: τινὲς ἀθετοῦσιν~ ὡς οὐκ ὄντος σιδήρου τότε~ τί οὖν φησι <q>πολιόν τε σίδηρον</q>⁑</p>
         </div>
       </div>
+
+      <div n="ms_86_250v_2" type="scholion">
+        <div n="lemma">
+          <p><num value="2">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.30</p>
+        </div>
+        <div n="comment">
+          <p>ὀρέχθεον: ἀλλ' ἐμήκαξον⁑</p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_3" type="scholion">
+        <div n="lemma">
+          <p><num value="3">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.30</p>
+        </div>
+        <div n="comment">
+          <p>ἄλλως~ ὀρέχθεον: κατὰ μίμησιν ἤχου τραχέος πεποίηται τὸ ῥῆμα~ ἀντὶ τοῦ ἔστενον ἀναιρούμενοι~ ἢ ἐξετείνοντο ἀποθνῄσκοντες ὡς τὸ <q>κεῖτο μέγας μεγαλωστί</q>⁑</p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_4" type="scholion">
+        <div n="lemma">
+          <p><num value="4">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.31</p>
+        </div>
+        <div n="comment">
+          <p>μηκάδες: οὐκέτι <q>ὀρέχθεον</q>, ἀλλ' ἐμήκαζον⁑</p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_5" type="scholion">
+        <div n="lemma">
+          <p><num value="5">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.33</p>
+        </div>
+        <div n="comment">
+          <p>εὑόμενοι τανύοντο: ἀντὶ τοῦ τὴν πιμελὴν ἐτήκοντο⁑</p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_6" type="scholion">
+        <div n="lemma">
+          <p><num value="6">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.33</p>
+        </div>
+        <div n="comment">
+          <p>ἄλλης~ εὑόμενοι: εὕειν τὸ τὰς τρίχας ἀποκαίειν~ <q>εὗσέ τε μίστυλέν τε</q>~ ἐκτεταμένοι οἱωπίωντο⁑</p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_7" type="scholion">
+        <div n="lemma">
+          <p><num value="7">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.34</p>
+        </div>
+        <div n="comment">
+          <p>ἀμφὶ νέκυν ἔρρεεν: οὐχ' ὅτι ἥπτετο τοῦ νεκροῦ, κεῖται γὰρ ἐν τοῖς λέχεσιν, ἀλλὰ περὶ αὐτόν⁑</p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_8" type="scholion">
+        <div n="lemma">
+          <p><num value="8">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.36</p>
+        </div>
+        <div n="comment">
+          <p>εἰς Ἀγαμέμνονα δῖον: ἀντὶ τοῦ <choice><abbr>πρός</abbr><expan>πατρός</expan></choice>⁑</p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_9" type="scholion">
+        <div n="lemma">
+          <p><num value="9">TEXT_OF_NUMBER</num></p>
+          <p/>
+        </div>
+        <div n="ref">
+            <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.37</p>
+        </div>
+        <div n="comment">
+          <p> σπουδῇ: μόγις~ παριξυτόνως δὲ τὸ πεπιθόντες~ ἔστι γὰρ <num value="2" type="ordinal">β</num><choice><abbr>αο</abbr><expan>ἀόριστος</expan></choice>⁑</p>
+        </div>
+      </div>
+
     </body>
   </text>
 </group>

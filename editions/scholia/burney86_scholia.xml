@@ -533,6 +533,70 @@
         </div>
       </div>
 
+      <div n="ms_86_250v_17" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="17">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.43</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>οὐ μὰ Ζῆν': ἔτι τὴν ἄρνησιν καὶ ἀπόμοσϊν ὁμοῦ ἔθηκεν⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_18" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="18">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.43</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>ὕπατος καὶ ἄριστος: δυνάμει καὶ τιμῇ προὔχων τῶν θεῶν⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_19" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="19">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.44</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>καρήατος: ἀπὸ τῆς κάρηαρ~ ὡς ἥπατος⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_20" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="20">TEXT_OF_NUMBER</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.44</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>ἄλλως: καρήατος: λόγου τοῦ ἐμοῦ~ ἀσεβεῖν γὰρ οἱ φιλόστοργοι νομίζουσι τὴν τοῦ σώματος ἐπιμέλειαν~ προτιθέντες τῆς κηδείας⁑</p>
+          </p>
+        </div>
+      </div>
+
     </body>
   </text>
 </group>

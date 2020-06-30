@@ -7,6 +7,7 @@ urn:cts:greekLit:tlg5026.msB.hmt:#xml#scholia/vb_scholia.xml#tei->http://www.tei
 urn:cts:greekLit:tlg5026.e3.hmt:#xml#scholia/e3_scholia.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
 urn:cts:greekLit:tlg5026.burney86.hmt:#xml#scholia/burney86_scholia.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
 urn:cts:greekLit:tlg5026.burney86int.hmt:#xml#scholia/burney86_intscholia.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
+urn:cts:greekLit:tlg5026.burney86im.hmt:#xml#scholia/burney86_imscholia.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
 urn:cts:greekLit:tlg5026.msA.hmt:#xml#scholia/va-main.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
 urn:cts:greekLit:tlg5026.msAext.hmt:#xml#scholia/va-ext.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
 urn:cts:greekLit:tlg5026.msAil.hmt:#xml#scholia/va-il.xml#tei->http://www.tei-c.org/ns/1.0#/tei:TEI/tei:text/tei:group[@n = '?']/tei:text/tei:body/tei:div[@n = '?']/tei:div[@n = '?']
