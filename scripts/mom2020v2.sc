@@ -35,6 +35,8 @@ def loadLibrary: CiteLibrary =  {
   )
 }
 
+lazy val corpus = loadLibrary.textRepository.get.corpus
+
 def reportsDir(pgUrn: Cite2Urn): File = {
   val f = new File(s"validation/${pgUrn.collection}-${pgUrn.objectComponent}")
   if (! f.exists()) { f.mkdir()}
@@ -66,7 +68,12 @@ def libForTexts(lib: CiteLibrary, ctsUrn: CtsUrn) : CiteLibrary = {
   )
 }
 
-
+// Create new corpus with scholia omitting ref units
+def scholia(c: Corpus = corpus) : Corpus = {
+  val scholCorpus = c ~~  CtsUrn("urn:cts:greekLit:tlg5026:")
+  val noReff = scholCorpus.nodes.filterNot(n => n.urn.passageComponent.endsWith("ref"))
+  Corpus(noReff)
+}
 // Validate one page of editorial work.
 def validate(page: String, lib: CiteLibrary = loadLibrary) : Vector[TestResult[Any]] = {
   val pgUrn = Cite2Urn(page)

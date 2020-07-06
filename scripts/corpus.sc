@@ -18,8 +18,19 @@ def loadLibrary: CiteLibrary =  {
   EditorsRepo(".", readersMap).library
 }
 
-val corpus = loadLibrary.textRepository.get.corpus
+val rawCorpus = loadLibrary.textRepository.get.corpus
 
+def scholia : Corpus =  {
+  val schol = rawCorpus ~~ CtsUrn("urn:cts:greekLit:tlg5026:")
+  val noReff = schol.nodes.filterNot(n => n.urn.passageComponent.endsWith("ref"))
+  Corpus(noReff)
+}
+
+def iliad : Corpus = {
+  rawCorpus ~~ CtsUrn("urn:cts:greekLit:tlg0012.tlg001:")
+}
+
+val corpus = iliad ++ scholia
 
 def info = {
   println("\n\nAll the texts in this repository are now loaded in a citable corpus.\n")

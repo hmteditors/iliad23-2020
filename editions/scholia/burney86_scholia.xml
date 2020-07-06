@@ -24,9 +24,7 @@
 
       <div n="ms_86_250r_1" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="1">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats17"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.1</p>
@@ -40,9 +38,7 @@
 
       <div n="ms_86_250r_2" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="2">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats16"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.2</p>
@@ -56,9 +52,7 @@
 
       <div n="ms_86_250r_3" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="3">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats15"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.2</p>
@@ -72,9 +66,7 @@
 
         <div n="ms_86_250r_4" type="scholion">
             <div n="lemma">
-              <p>
-                <num value="4">TEXT_OF_NUMBER</num>
-              </p>
+              <p ana="urn:cite2:hmt:dingbats.v1:dingbats14"/>
             </div>
             <div n="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.6</p>
@@ -88,9 +80,7 @@
 
       <div n="ms_86_250r_5" type="scholion">
         <div n= "lemma">
-          <p>
-            <num value="5">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats22"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.7</p>
@@ -103,9 +93,7 @@
 
       <div n="ms_86_250r_6" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="6">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats9"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.8</p>
@@ -119,9 +107,7 @@
 
       <div n="ms_86_250r_7" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="7">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats12"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.10</p>
@@ -135,9 +121,7 @@
 
       <div n="ms_86_250r_8" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="8">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats10"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.12</p>
@@ -151,9 +135,7 @@
 
       <div n="ms_86_250r_9" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="9">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats11"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.14</p>
@@ -167,9 +149,7 @@
 
       <div n="ms_86_250r_10" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="10">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats13"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.15</p>
@@ -183,9 +163,7 @@
 
       <div n="ms_86_250r_11" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="11">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats23"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.16</p>
@@ -199,9 +177,7 @@
 
       <div n="ms_86_250r_12" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="12">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats24"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.16</p>
@@ -215,9 +191,7 @@
 
       <div n="ms_86_250r_13" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="13">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats25"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.17</p>
@@ -231,9 +205,7 @@
 
       <div n="ms_86_250r_14" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="14">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.17</p>
@@ -247,9 +219,7 @@
 
       <div n="ms_86_250r_15" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="15">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats26"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.18</p>
@@ -263,25 +233,21 @@
 
       <div n="ms_86_250r_16" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="16">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="urn:cite2:hmt:dingbats.v1:dingbats27"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.19</p>
         </div>
         <div n="comment">
           <p>
-            <p> χαῖρέ μοι, ὧ <persName n="urn:cite2:hmt:pers.v1:pers158">Πάτροκλε</persName>: οἴκτου κινητικὸν ἡ πρὸς νεκροὺς ὁμιλία~ κατέχεται δὲ τῇ κοινῇ ἐννοίᾳ ὁ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεύς</persName>~ καὶ ἔοικεν ἀηδές τι τὸν θάνατον ὑπειληφέναι~ τοῦτο γοῦν ἐν ὑπερβολῇ φησι <cit> <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.burney86:23.19</ref><q> καὶ εἰν <persName n="urn:cite2:hmt:pers.v1:pers201">Ἀΐδαο</persName> δόμοισιν</q></cit> ὢν ὅμως χαῖρε~ οἷον εἰ ἔστι παραμυθία καὶ χαρὰ ἐν τοῖς τελευτηκόσι, ταύτην δέχου παρ' ἡμῶν⁑</p>
+            <p>χαῖρέ μοι, ὧ <persName n="urn:cite2:hmt:pers.v1:pers158">Πάτροκλε</persName>: οἴκτου κινητικὸν ἡ πρὸς νεκροὺς ὁμιλία~ κατέχεται δὲ τῇ κοινῇ ἐννοίᾳ ὁ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεύς</persName>~ καὶ ἔοικεν ἀηδές τι τὸν θάνατον ὑπειληφέναι~ τοῦτο γοῦν ἐν ὑπερβολῇ φησι <cit> <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.burney86:23.19</ref><q> καὶ εἰν <persName n="urn:cite2:hmt:pers.v1:pers201">Ἀΐδαο</persName> δόμοισιν</q></cit> ὢν ὅμως χαῖρε~ οἷον εἰ ἔστι παραμυθία καὶ χαρὰ ἐν τοῖς τελευτηκόσι, ταύτην δέχου παρ' ἡμῶν⁑</p>
           </p>
         </div>
       </div>
 
       <div n="ms_86_250v_1" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="1">TEXT_OF_NUMBER</num>
-          </p>
+            <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.20</p>
@@ -295,9 +261,7 @@
 
       <div n="ms_86_250v_2" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="2">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.21</p>
@@ -311,9 +275,7 @@
 
       <div n="ms_86_250v_3" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="3">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.24</p>
@@ -327,9 +289,7 @@
 
       <div n="ms_86_250v_4" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="4">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.26</p>
@@ -343,9 +303,7 @@
 
       <div n="ms_86_250v_5" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="5">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.28</p>
@@ -359,9 +317,7 @@
 
       <div n="ms_86_250v_6" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="6">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.29</p>
@@ -375,9 +331,7 @@
 
       <div n="ms_86_250v_7" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="7">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.30</p>
@@ -391,9 +345,7 @@
 
       <div n="ms_86_250v_8" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="8">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.30</p>
@@ -407,9 +359,7 @@
 
       <div n="ms_86_250v_9" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="9">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.34</p>
@@ -423,9 +373,7 @@
 
       <div n="ms_86_250v_10" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="10">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.34</p>
@@ -439,9 +387,7 @@
 
       <div n="ms_86_250v_11" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="11">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney8:23.37</p>
@@ -455,9 +401,7 @@
 
       <div n="ms_86_250v_12" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="12">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.39</p>
@@ -471,9 +415,7 @@
 
       <div n="ms_86_250v_13" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="13">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.40</p>
@@ -487,9 +429,7 @@
 
       <div n="ms_86_250v_14" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="13">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.41</p>
@@ -503,9 +443,7 @@
 
       <div n="ms_86_250v_15" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="15">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.42</p>
@@ -519,9 +457,7 @@
 
       <div n="ms_86_250v_16" type="scholion">
         <div n="lemma">
-          <p>
-            <num value="16">TEXT_OF_NUMBER</num>
-          </p>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
           <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.42</p>
@@ -529,6 +465,62 @@
         <div n="comment">
           <p>
             <p>στερεῶς: ἀνενδεῶς⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_17" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.43</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>οὐ μὰ Ζῆν': ἔτι τὴν ἄρνησιν καὶ ἀπόμοσϊν ὁμοῦ ἔθηκεν⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_18" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.43</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>ὕπατος καὶ ἄριστος: δυνάμει καὶ τιμῇ προὔχων τῶν θεῶν⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_19" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.44</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>καρήατος: ἀπὸ τῆς κάρηαρ~ ὡς ἥπατος⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_250v_20" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.44</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>ἄλλως: καρήατος: λόγου τοῦ ἐμοῦ~ ἀσεβεῖν γὰρ οἱ φιλόστοργοι νομίζουσι τὴν τοῦ σώματος ἐπιμέλειαν~ προτιθέντες τῆς κηδείας⁑</p>
           </p>
         </div>
       </div>
