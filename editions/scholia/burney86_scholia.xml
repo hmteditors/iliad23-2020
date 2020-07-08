@@ -366,7 +366,7 @@
         </div>
         <div n="comment">
           <p>
-            <p>κοτυλήρυτον: δαψιλές κοτύλῃ ἀρυόμενον~ καθόλου δὲ κοτύλας ἐκ' άλουν, τὰ κοῖλα. καὶ <persName n="urn:cite2:hmt:pers.v1:pers225">Αἰσχύλος</persName> ἐν <title>Ἠδωνοῖς</title>~ τὰ κύμβαλα~ <q>ὁ δὲ χαλκοδέτοις κοτύλαις στοβεῖ</q>~ ἔστι δὲ καὶ ὄνομα ποτήριον, ἠ κοτύλη~ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:22.494</ref><q>κοτύλην τις τυτθὸν ἐπέσχεν</q></cit> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:17.12</ref><q>πύρνον καὶ κοτύλην</q></cit>~ καὶ τὸ πὲρι τον μερὸν~ και τὸ τῶν πολυπόδων~ καὶ τὸ κοῖλον τῆς χειρός~ καὶ παιδὰ δὲ τις ἐν κοτύλῃ λέγεται~ ἐπειδὰν τὰς χεῖρας κοιλάναντες εἰς τοὐπίσω, δεχώμεθά τινα~ ἐπιβεβηκότα μὲν τοῖς γόνασιν αὐτοῦ~ ταῖς δὲ χερσὶ τοὺς ὀφθαλμοὺς κατειληφότα~ ταύτην δὲ οἱ μὲν ἐπιδιφρισμὸν καλοῦσιν~ οἱ δὲ κρικαδίαν~ οἱ δὲ ἀπόρραξιν~ καὶ κοτυλίσκον κρατῆρα~ ὃν στέφοντες παρατιθέασι Διῒ ἐν ταῖς θυσίαις⁑</p>
+            <p>κοτυλήρυτον: δαψιλές κοτύλῃ ἀρυόμενον~ καθόλου δὲ κοτύλας ἐκ' άλουν, τὰ κοῖλα. καὶ <persName n="urn:cite2:hmt:pers.v1:pers225">Αἰσχύλος</persName> ἐν <title>Ἠδωνοῖς</title>~ τὰ κύμβαλα~ <q>ὁ δὲ χαλκοδέτοις κοτύλαις στοβεῖ</q>~ ἔστι δὲ καὶ ὄνομα ποτήριον, ἠ κοτύλη~ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:22.494</ref><q>κοτύλην τις τυτθὸν ἐπέσχεν</q></cit> <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:17.12</ref><q>πύρνον καὶ κοτύλην</q></cit>~ καὶ τὸ πὲρι τον μερὸν~ και τὸ τῶν πολυπόδων~ καὶ τὸ κοῖλον τῆς χειρός~ καὶ παιδὰ δὲ τις ἐν κοτύλῃ λέγεται~ ἐπειδὰν τὰς χεῖρας κοιλάναντες εἰς τοὐπίσω, δεχώμεθά τινα~ ἐπιβεβηκότα μὲν τοῖς γόνασιν αὐτοῦ~ ταῖς δὲ χερσὶ τοὺς ὀφθαλμοὺς κατειληφότα~ ταύτην δὲ οἱ μὲν ἐπιδιφρισμὸν καλοῦσιν~ οἱ δὲ κρικαδίαν~ οἱ δὲ ἀπόρραξιν~ καὶ κοτυλίσκον κρατῆρα~ ὃν στέφοντες παρατιθέασι Διῒ ἐν ταῖς θυσίαις⁑</p>
           </p>
         </div>
       </div>
@@ -618,7 +618,133 @@
         </div>
         <div n="comment">
           <p>
-            <p>1 δόρπον ἐφοπλίσαντες: οὐχ' οἱ Μυρμιδόνες~ τούτοις γὰρ τὸν τάφον ἐδαίνυ⁑</p>
+            <p>δόρπον ἐφοπλίσαντες: οὐχ' οἱ Μυρμιδόνες~ τούτοις γὰρ τὸν τάφον ἐδαίνυ⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_8" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.59</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>ἐπι θινί: πρέπουσα κοίτη τῷ πενθοῦντι καὶ ἀλύοντι~ τάχα δὲ καὶ τὰς παρηγορίας τῶν φίλων οὐ φέρων, καθ' αὑτὸν τρέπεται~ σχολάζειν τῷ πένθει θέλων⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_9" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.61</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>κλύζεσκον: τινὲς ἐπέκλυζον⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_10" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.63</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>νήδυμος: ὅτι μετὰ τοῦ <ref type="waw">ν</ref> ἡ λέξις⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_11" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.63</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>μάλα γὰρ κάμε: δικαίως οὖν προῳκονόμει τὸν δρόμον <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέως</persName>~ ὅπως περιπαθὲς ἐπεισόδιον ἐνέγκῃ~ πῶς γὰρ ἂν ὁ ἄφροητις οὕτω βαθέως ἐβλήθη ὕπνῳ⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_12" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.64</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p><persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορ'</persName> ἐπαΐσσων: τὸ πλῆρές ἐπι <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτορι</persName>~ ὡς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:10.322</ref><q><persName n="urn:cite2:hmt:pers.v1:pers96">Κίρκῃ</persName> ἐπήϊξεν</q></cit>⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_13" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.65</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>ἦλθε δ' ἐπὶ ψυχὴ: πιθανὴ ἡ περιπέτεια~ μετὰ γὰρ τοὺς <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέως</persName> θρήνους ἐξεῦρέ τι καινότερον~ καὶ τῷ τετελευτηκότι λόγους περιθεὶς διὰ τοῦ ὀνείρου⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_14" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.66</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>καὶ ὄμματα κάλ' εἰκυῖα: ἐντεῦθεν <persName n="urn:cite2:hmt:pers.v1:pers1072">Ἀντισθένης</persName> ὁμοσχήμονάς φησι τὰς ψυχὰς τοῖς περιέχουσι σώμασι~  <persName n="urn:cite2:hmt:pers.v1:pers107">Χρύσιππος</persName> δὲ μετὰ τὸν χωρισμὸν τοῦ σώματός φησιν αὐτὰς σφαιροειδεῖς γενέσθαι⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_15" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.67</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p> καὶ φωνήν: ἄκρως ἐπεξεργάζεται τὴν ἐπιφάνειαν τοῦ ὀνείρου~ ἔναυλος γὰρ τῷ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεῖ</persName> ὁ τοῦ φίλου τύπος⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_16" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.69</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>εὕδεις: πλήρης φιλοστοργίας ὁ λόγος~ καὶ ἠθικῆς μέμψεως⁑</p>
           </p>
         </div>
       </div>
