@@ -395,6 +395,216 @@
               </p>
             </div>
           </div>
+          <div n="e3_295r_1" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="15">ιε</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.37</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>μόγις~ παροξυτόνως δὲ τὸ πεπιθόντες~ ἔστι γὰρ δευτέρου ἀορίστου⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="16">ιϝ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.37</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>συγκεχύμενον καὶ λυπούμενον⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_3" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="17">ιζ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.39</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἐκέλευσαν πληθυντικῶς οἱ βασιλεῖς ὡς <persName n="urn:cite2:hmt:pers.v1:pers493">Ἡρωδιανός</persName>⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_4" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="18">ιη</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.40</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>φιλικῶς ἄγαν~ προειλήφασι μὲν γὰρ ὅτι οὐκ ἐθελήσει~ παρασκευάζονται δὲ ὅμως~ τοῦτο δὲ δηλοῖ διὰ τοῦ εἰ πεπίθοιεν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_5" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="19">ιθ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.41</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>τὸν ἐξ αἵματος μολυσμόν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_6" type="scholion"> <!-- this scholia has a marker that does not correspond with the lemma in the text -->
+            <div n="lemma">
+              <p>
+                <num value="19">ιθ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ὁλοσχερῶς ἀπαρακλήτως⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_7" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="21">κα</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.43</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>τὴν ἄρνησιν καὶ ἀπόμοσιν ὁμοῦ τέθεικεν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_8" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="21">κα</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>δυνάμει καὶ τιμῇ τῶν ἄλλων προύχων θεῶν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_9" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="22">κβ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>λείπει τὸ ἐμοῦ~ ἀσεβεῖν γὰρ οἱ φιλόστοργοι νομίζουσι τὴν τοῦ σώματος ἐπιμέλειαν τῆς κηδείας προτιθέντες⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_10" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="24">κδ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.48</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἄκρως διὰ τοῦ πειθώμεθα τὸ παρὰ βίαν καὶ παρὰ τὸ δέον δηλοῖ⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_11" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="25">κε</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.50</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>παρασχεῖν ὡς ἁρμόζει καὶ καθῆκόν ἐστίν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_12" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="26">κϝ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.53</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἵνα ταχύτερον ἀπὸ τῆς ὄψεως ἡμῶν γένη~ τιμὴ γὰρ τοῦ νεκροῦ ἐδόκει τὸ τάχιον ταφῆναι⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_13" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="27">κζ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.55</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>οὐ παρέλκει νῦν τὸ ἐσσυμένως. ἀλλ' ἑσπέρας οὔσης καὶ κομίσαι τὴν ὕλην παρασκευαζομένους, ἔδει ταχῦναι τὸ δεῖπνον~ ἀποσιωπᾷ δὲ τὴν περὶ τὸ δεῖπνον διάθεσιν~ ἐν γὰρ πένθει καὶ κατηφεία ἦν~ ἰστέον οὖν. ὡς τὸ μὲν πρῶτον οἱ Μυρμιδόνες εὐωχοῦνται μόνοι~ νῦν δὲ καὶ τὸ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">Ἑλλήνων</rs> πλῆθος⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_295r_14" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="28">κη</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.59</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>πρέπουσα κοίτη πενθοῦντι καὶ ἀλύοντι~ τάχα δὲ τὰς παρηγορίας τῶν φίλων οὐ φέρων. καθ' αὑτὸν τρέπεται σχολάζειν τῷ πένθει θέλων⁑</p>
+              </p>
+            </div>
+          </div>
         </body>
       </text>
     </group>
