@@ -22,16 +22,17 @@
   <text n="burney86im">
     <body>
 
-      <div n="ID" type="scholion">
+      <div n="ms_86_251r_1" type="scholion">
         <div n="lemma">
-          <p><num value="1">TEXT_OF_NUMBER</num></p>
-          <p/>
+          <p ana="DINGBAT(from authlists)"/>
         </div>
         <div n="ref">
-            <p/>
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.71</p>
         </div>
         <div n="comment">
-          <p/>
+          <p>
+            <p>τῆλέ με: ἀπόλυτος ἡ μὲ⁑</p>
+          </p>
         </div>
       </div>
 

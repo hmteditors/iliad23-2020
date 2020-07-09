@@ -749,6 +749,76 @@
         </div>
       </div>
 
+      <div n="ms_86_251r_17" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.69</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>αὐτὰρ ἐμεῖο λελασμένος ἔπλευ: λελασμένος δὲ ὑπάρχεις ἀντὶ τοῦ ἐπιλέλησαι. ὡς <q>ληρεῖς ἔχων</q> ⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_18" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.70</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>οὐ μέν μευ ζώοντος: περιπαθὲς τὸ ἀναμνῆσαι τῆς φιλίας~ μαρτυρῶν δὲ αὐτοῦ τὴν ἐν τῷ ζῆν ἐπιμέλειαν, καὶ νῦν ἐπὶ τὰ ἴσα προτρέπεται⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_19" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.71</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>πύλας Ἀΐδαο: πύλας Ἅιδου τὸν Ἀχέροντα. ἐκεῖ γάρ εἰσιν αἱ τῶν κολαζομένων ψυχαί~ οὗ τοὺς περὶ Τιτυὸν εἶδεν <choice><abbr>Ὀδoυ</abbr><expan>Ὀδυσσεύς</expan></choice>~ ὁμοίως καὶ Ὀμηρος ἐκεῖνο Ἅιδην καλεῖ~ ἴσως δὲ πρὸς τὸ πεῖσαι φαντάζει~ πῶς γὰρ ἄταφοι μνηστῆρες διαβαίνουσιν⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_20" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.72</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>εἴδωλα καμόντων: ὥρισε τί ἐστιν ψυχή⁑</p>
+          </p>
+        </div>
+      </div>
+
+      <div n="ms_86_251r_21" type="scholion">
+        <div n="lemma">
+          <p ana="DINGBAT(from authlists)"/>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.burney86:23.73</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>οὐδέ μέ: οἶδε γὰρ ἑαυτὸν αὐτίκα θανούμενον⁑</p>
+          </p>
+        </div>
+      </div>
+
     </body>
   </text>
 </group>
