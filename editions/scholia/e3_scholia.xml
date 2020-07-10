@@ -83,7 +83,7 @@
           <div n="e3_294r_8" type="scholion">
             <div n="lemma">
               <p>
-                <num value="p">p</num>
+                <num>urn:cite2:hmt:dingbats.v1:dingbats22</num>
               </p>
             </div>
             <div n="ref">
@@ -233,7 +233,7 @@
           <div n="e3_294v_9" type="scholion">
             <div n="lemma">
               <p>
-                <num value=""></num>
+                <num value="">urn:cite2:hmt:dingbats.v1:dingbats21</num>
               </p>
             </div>
             <div n="ref">
@@ -248,7 +248,7 @@
           <div n="e3_294v_10" type="scholion">
             <div n="lemma">
               <p>
-                <num value=""></num>
+                <num value="9">θ</num>
               </p>
             </div>
             <div n="ref">
@@ -263,7 +263,7 @@
           <div n="e3_294v_11" type="scholion">
             <div n="lemma">
               <p>
-                <num value=""></num>
+                <num>urn:cite2:hmt:dingbats.v1:dingbats20</num>
               </p>
             </div>
             <div n="ref">
@@ -278,7 +278,7 @@
           <div n="e3_294v_12" type="scholion">
             <div n="lemma">
               <p>
-                <num value=""></num>
+                <num>urn:cite2:hmt:dingbats.v1:dingbats19</num>
               </p>
             </div>
             <div n="ref">
@@ -293,7 +293,7 @@
           <div n="e3_294v_13" type="scholion">
             <div n="lemma">
               <p>
-                <num value=""></num>
+                <num value="10">ι</num>
               </p>
             </div>
             <div n="ref">
@@ -308,7 +308,7 @@
           <div n="e3_294v_14" type="scholion">
             <div n="lemma">
               <p>
-                <num value=""></num>
+                <num>urn:cite2:hmt:dingbats.v1:dingbats18</num>
               </p>
             </div>
             <div n="ref">
@@ -323,7 +323,7 @@
           <div n="e3_294v_15" type="scholion">
             <div n="lemma">
               <p>
-                <num value=""></num>
+                <num value="11">ια</num>
               </p>
             </div>
             <div n="ref">
@@ -338,7 +338,7 @@
           <div n="e3_294v_16" type="scholion">
             <div n="lemma">
               <p>
-                <num value=""></num>
+                <num value="12">ιβ</num>
               </p>
             </div>
             <div n="ref">
@@ -477,7 +477,7 @@
               </p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.42</p>
             </div>
             <div n="comment">
               <p>
@@ -507,7 +507,7 @@
               </p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.43</p>
             </div>
             <div n="comment">
               <p>
@@ -522,7 +522,7 @@
               </p>
             </div>
             <div n="ref">
-              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.</p>
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.44</p>
             </div>
             <div n="comment">
               <p>
