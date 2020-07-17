@@ -646,7 +646,7 @@
             </div>
             <div n="comment">
               <p>
-                <p>ἐντεῦθεν <persName n="urn:cite2:hmt:pers.v1:pers1072">Ἀντισθενης</persName> ὁμοσχήμονας φησι τὰς ψυχὰς τοῖς περιέχουσι σώμασι<!-- confusing symbol here -->~ ἄκρως δὲ ἐπεξεργάζεται τὴν ἐπιφάνειαν τοῦ ὀνείρου~ ἔναυλλος γὰρ τῷ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεῖ</persName> ὁ τοῦ φίλου τύπος⁑</p>
+                <p>ἐντεῦθεν <persName n="urn:cite2:hmt:pers.v1:pers1072">Ἀντισθενης</persName> ὁμοσχήμονας φησι τὰς ψυχὰς τοῖς περιέχουσι σώμασιν~ ἄκρως δὲ ἐπεξεργάζεται τὴν ἐπιφάνειαν τοῦ ὀνείρου~ ἔναυλλος γὰρ τῷ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεῖ</persName> ὁ τοῦ φίλου τύπος⁑</p>
               </p>
             </div>
           </div>
@@ -827,6 +827,81 @@
             <div n="comment">
               <p>
                 <p>ἀμφιχυθέντες περιλαβόντες⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297r_6" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="17">ιζ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.101</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἐλεεινὰ βοῶσα ὡς ἐπὶ τῶν νεοσσῶν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297r_7" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="18">ιη</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.102</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἐπὶ τῇ παραδόξῳ φαντασίᾳ, τὰς χεῖρας συνέκρουσεν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297r_8" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="19">ιθ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.102</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἔπος ὀλοφυδνὸν. τὸ μετὰ τίλοεως τριχῶν γενόμενον⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297r_9" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="20">κ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.104</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>τινὲς σῶμα~ μέρος γὰρ σώματος αἱ φρένες~ τοῦτο δὲ εἶπε. παρ' ὅσον ἐκταθεὶς οὐκ ἔλαβε~ κάλλιον δὲ ὅτι φρένας οἱ τεθνεῶτες οὐκ ἔχουσιν~ ἐμέμφετο γὰρ ὡς ἠμελημένος ἢ εἰσὶ μὲν οὐ μὴν πάμπαν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297r_10" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="21">κα</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.107</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἀληθῶς ὡσεὶ θεοῦ τὴν ὁμοιότητα κατασκευάσαντος⁑</p>
               </p>
             </div>
           </div>

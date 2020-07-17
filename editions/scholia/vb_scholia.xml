@@ -607,6 +607,96 @@
           </p>
         </div>
       </div>
+      <div n="msB_304v_1" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="1">α</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.62</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>δικαίως οὖν προοικονομεῖ τὸν δρόμον <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέως</persName>, ὅπως περιπαθὲς ἐπεισόδιον ἐνέγκη~ πῶς γὰρ ἂν οὕτως ἔμφροντις βαθεῖ ὕπνῳ ἐβλήθη⁑</p>
+          </p>
+        </div>
+      </div>
+      <div n="msB_304v_2" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="2">β</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.65</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>πιθανὴ ἡ περιπέτεια~ μετὰ γὰρ τοὺς <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέως</persName> θρήνους ἐξεῦρε τί καινότερον~ καὶ τῷ τελευτηκότι λόγους περιτίθησι διὰ τοῦ ὀνείρου⁑</p>
+          </p>
+        </div>
+      </div>
+      <div n="msB_304v_3" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="3">γ</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.66</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>ἐντεῦθεν <persName n="urn:cite2:hmt:pers.v1:pers1072">Ἀντισθένης</persName> ὁμοσχήμονας φησὶ τὰς ψυχὰς τοῖς περιέχουσι σώμασιν~ ἄκρως δὲ ἐπεξεργάζεται τὴν ἐπιφάνειαν τοῦ ὀνείρου~ ἔναυλλος γὰρ τῷ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεῖ</persName> ὁ τοῦ φίλου τύπος⁑</p>
+          </p>
+        </div>
+      </div>
+      <div n="msB_304v_4" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="4">δ</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.69</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>πλήρης φιλοστοργίας ὁ λόγος καὶ μέμψεως ἠθικῆς~ λελασμένος δὲ ὑπάρχεις ἀντὶ τοῦ ἐπιλέλησαι⁑</p>
+          </p>
+        </div>
+      </div>
+      <div n="msB_304v_5" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="5">ε</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.70</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>περιπαθὲς τὸ ἀναμνῆσαι τῆς φιλίας~ μαρτυρῶν δὲ αὐτοῦ τὴν ἐν τῷ ζῆν ἐπιμέλειαν, ἐπὶ τὰ ἶσα προτρέπεται⁑</p>
+          </p>
+        </div>
+      </div>
+      <div n="msB_304v_6" type="scholion">
+        <div n="lemma">
+          <p>
+            <num value="6">ϝ</num>
+          </p>
+        </div>
+        <div n="ref">
+          <p>urn:cts:greekLit:tlg0012.tlg001.msB:23.74</p>
+        </div>
+        <div n="comment">
+          <p>
+            <p>τὸ πᾶσιν ἐφηπλωμένον⁑</p>
+          </p>
+        </div>
+      </div>
     </body>
   </text>
 </group>
