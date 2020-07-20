@@ -796,7 +796,7 @@
             </div>
             <div n="comment">
               <p>
-                <p>οὐ κενὴν σορὸν δέωκεν αὐτῷ ἡ <choice><abbr>μηρ</abbr><expan>μήτηρ</expan></choice>~ δυσοιώνιστον γὰρ τοῦτο ἐπὶ πολέμῳ ἐξιόντι. ἀλλ' ἴσως μεστὸν οἴνου, ἀμφιφορέα~ ὃν ἀξιοῖ σορὸν γενέσθαι~ σορὸς δέ ἐστι κιβώτιον οὗ ἔσω ὀροῦσαι ἐστίν⁑</p>
+                <p>οὐ κενὴν σορὸν δέδωκεν αὐτῷ ἡ <choice><abbr>μηρ</abbr><expan>μήτηρ</expan></choice>~ δυσοιώνιστον γὰρ τοῦτο ἐπὶ πολέμῳ ἐξιόντι. ἀλλ' ἴσως μεστὸν οἴνου, ἀμφιφορέα~ ὃν ἀξιοῖ σορὸν γενέσθαι~ σορὸς δέ ἐστι κιβώτιον οὗ ἔσω ὀροῦσαι ἐστίν⁑</p>
               </p>
             </div>
           </div>
@@ -902,6 +902,126 @@
             <div n="comment">
               <p>
                 <p>ἀληθῶς ὡσεὶ θεοῦ τὴν ὁμοιότητα κατασκευάσαντος⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297v_1" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value=""></num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.116</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>μήτε ἀνωφερῆ. μήτε κατωφερῆ. ἀλλ' εὐθύτομα~ δόχμια δὲ τὰ ἐκ πλαγίου⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297v_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value=""></num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.119</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἤλλακται ἡ τάξις κατὰ παράφρασιν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297v_3" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="3">γ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.120</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>διακόπτοντες πρὸς τὴν συμμετρίαν~ τὸ δὲ διαπλήσσοντες. ἀντὶ τοῦ τοῖς ποσὶ διαβάντες⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297v_4" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value=""></num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.121</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>διέκοπτον ταῖς ὁπλαῖς τὸ ἔδαφος~ ἢ διεμερίζετο τοῖς ποσὶ τὴν γῆν~ μερισμῷ γὰρ ὅμοιόν ἐστιν. ἄλλοτε ἄλλῃ τιθεμένων τῶν ποδῶν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297v_5" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value=""></num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.123</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἐφεξῆς. παρὰ τὸ ἄλλο ἐπ' ἄλλῳ τὴν σχέσιν ἔχειν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297v_6" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="6">ϝ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.125</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>νόμος γάρ ἐστι στρατιωτικὸς. μηδένα κούφον ἐν ταῖς τοιαύταις χρείαις διατελεῖν⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297v_7" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value=""></num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.131</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἀντὶ τοῦ εἰς τὰ τεύχη⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_297v_8" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="8">η</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.132</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>ἀντὶ τοῦ εἰς τοὺς δίφρους⁑</p>
               </p>
             </div>
           </div>
