@@ -54,17 +54,26 @@ urn:cite2:hmt:e3markers.v1:295v_9#<num>θ</num>#urn:cite2:hmt:e3bifolio.v1:E3_29
 urn:cite2:hmt:e3markers.v1:295v_10#<num>ι</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.3058,0.5931,0.01310,0.01957#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_295v_10#urn:cts:greekLit:tlg0012.tlg001.e3:23.81@εὐηγενέων
 
 urn:cite2:hmt:e3markers.v1:297r_1#<num>ια</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6652,0.2111,0.02440,0.01757#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.86@ἀνδροκτασίης
-urn:cite2:hmt:e3markers.v1:297r_2#<num>ιβ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.7225,0.2919,0.02140,0.01843#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.90@ὀνόμηνεν
-urn:cite2:hmt:e3markers.v1:297r_3#<num>ιγ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6108,0.3241,0.01720,0.02457#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.92@ἀμφιφορεύς
-urn:cite2:hmt:e3markers.v1:297r_4#<num>ιδ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6033,0.4059,0.02130,0.01514#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.96@ἐκτελέω
-urn:cite2:hmt:e3markers.v1:297r_5#<num>ιε</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.7404,0.4343,0.02330,0.01557#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.97@ἀμφιβαλόντε
-urn:cite2:hmt:e3markers.v1:297r_6#<num>ιϝ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.7370,0.4936,0.01710,0.01714#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.100@καπνὸς
-urn:cite2:hmt:e3markers.v1:297r_7#<num>ιζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.5564,0.4949,0.02080,0.02414#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.101@τετριγυῖα
-urn:cite2:hmt:e3markers.v1:297r_8#<num>ιη</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.5946,0.5166,0.02190,0.02571#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.102@συμπλατάγησεν
-urn:cite2:hmt:e3markers.v1:297r_9#<num>ιθ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.7022,0.5250,0.01690,0.02600#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.102@ὀλοφυδνὸν
-urn:cite2:hmt:e3markers.v1:297r_10#<num>κ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6517,0.5607,0.01470,0.02586#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.104@φρένες
-urn:cite2:hmt:e3markers.v1:297r_11#<num>κα</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6495,0.6160,0.01780,0.02129#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.107@ἔϊκτο
-urn:cite2:hmt:e3markers.v1:297r_12#<num>κβ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6129,0.6347,0.01790,0.02500#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.108@πᾶσιν
+urn:cite2:hmt:e3markers.v1:297r_2#<num>ιβ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.7225,0.2919,0.02140,0.01843#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_2#urn:cts:greekLit:tlg0012.tlg001.e3:23.90@ὀνόμηνεν
+urn:cite2:hmt:e3markers.v1:297r_3#<num>ιγ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6108,0.3241,0.01720,0.02457#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_3#urn:cts:greekLit:tlg0012.tlg001.e3:23.92@ἀμφιφορεύς
+urn:cite2:hmt:e3markers.v1:297r_4#<num>ιδ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6033,0.4059,0.02130,0.01514#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_4#urn:cts:greekLit:tlg0012.tlg001.e3:23.96@ἐκτελέω
+urn:cite2:hmt:e3markers.v1:297r_5#<num>ιε</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.7404,0.4343,0.02330,0.01557#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_5#urn:cts:greekLit:tlg0012.tlg001.e3:23.97@ἀμφιβαλόντε
+urn:cite2:hmt:e3markers.v1:297r_6#<num>ιϝ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.7370,0.4936,0.01710,0.01714#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_6#urn:cts:greekLit:tlg0012.tlg001.e3:23.100@καπνὸς
+urn:cite2:hmt:e3markers.v1:297r_7#<num>ιζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.5564,0.4949,0.02080,0.02414#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_7#urn:cts:greekLit:tlg0012.tlg001.e3:23.101@τετριγυῖα
+urn:cite2:hmt:e3markers.v1:297r_8#<num>ιη</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.5946,0.5166,0.02190,0.02571#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_8#urn:cts:greekLit:tlg0012.tlg001.e3:23.102@συμπλατάγησεν
+urn:cite2:hmt:e3markers.v1:297r_9#<num>ιθ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.7022,0.5250,0.01690,0.02600#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_9#urn:cts:greekLit:tlg0012.tlg001.e3:23.102@ὀλοφυδνὸν
+urn:cite2:hmt:e3markers.v1:297r_10#<num>κ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6517,0.5607,0.01470,0.02586#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_10#urn:cts:greekLit:tlg0012.tlg001.e3:23.104@φρένες
+urn:cite2:hmt:e3markers.v1:297r_11#<num>κα</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6495,0.6160,0.01780,0.02129#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_11#urn:cts:greekLit:tlg0012.tlg001.e3:23.107@ἔϊκτο
+urn:cite2:hmt:e3markers.v1:297r_12#<num>κβ</num>#urn:cite2:hmt:e3bifolio.v1:E3_295v_297r@0.6129,0.6347,0.01790,0.02500#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297r_12#urn:cts:greekLit:tlg0012.tlg001.e3:23.108@πᾶσιν
+
+urn:cite2:hmt:e3markers.v1:297v_1#<num>α</num>#urn:cite2:hmt:e3bifolio.v1:E3_297v_298r@0.3737,0.3470,0.01377,0.01857#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297v_1#urn:cts:greekLit:tlg0012.tlg001.e3:23.116@πάραντά
+urn:cite2:hmt:e3markers.v1:297v_2#<num>β</num>#urn:cite2:hmt:e3bifolio.v1:E3_297v_298r@0.3887,0.4094,0.01176,0.01787#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297v_2#urn:cts:greekLit:tlg0012.tlg001.e3:23.119@κτυπέουσαι
+urn:cite2:hmt:e3markers.v1:297v_3#<num>γ</num>#urn:cite2:hmt:e3bifolio.v1:E3_297v_298r@0.3795,0.4309,0.01567,0.01962#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297v_3#urn:cts:greekLit:tlg0012.tlg001.e3:23.120@διαπλήσσοντες
+urn:cite2:hmt:e3markers.v1:297v_4#<num>δ</num>#urn:cite2:hmt:e3bifolio.v1:E3_297v_298r@0.4130,0.4482,0.01870,0.02119#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297v_4#urn:cts:greekLit:tlg0012.tlg001.e3:23.121@δατεῦντο
+urn:cite2:hmt:e3markers.v1:297v_5#<num>ε</num>#urn:cite2:hmt:e3bifolio.v1:E3_297v_298r@0.3140,0.4933,0.01377,0.02312#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297v_5#urn:cts:greekLit:tlg0012.tlg001.e3:23.123@φιτροὺς
+urn:cite2:hmt:e3markers.v1:297v_6#<num>ϝ</num>#urn:cite2:hmt:e3bifolio.v1:E3_297v_298r@0.3743,0.5370,0.01579,0.01752#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297v_6#urn:cts:greekLit:tlg0012.tlg001.e3:23.125@ἐπισχερώ
+urn:cite2:hmt:e3markers.v1:297v_7#<num>ζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_297v_298r@0.3748,0.6600,0.01422,0.02487#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297v_7#urn:cts:greekLit:tlg0012.tlg001.e3:23.131@τεύχεσσιν
+urn:cite2:hmt:e3markers.v1:297v_8#<num>η</num>#urn:cite2:hmt:e3bifolio.v1:E3_297v_298r@0.2564,0.6849,0.01489,0.02137#urn:cts:greekLit:tlg5026.e3.hmt:23.e3_297v_8#urn:cts:greekLit:tlg0012.tlg001.e3:23.132@ἐν
 
 =======
 urn#reading#image#scholion#text
