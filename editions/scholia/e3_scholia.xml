@@ -1055,6 +1055,81 @@
               </p>
             </div>
           </div>
+          <div n="e3_298r_3" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="11">ια</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.139</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>τὴν ἀρεσκομένην <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεῖ</persName>. ἢ τὴν πρέπουσαν τῇ πυρᾷ⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_298r_4" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="12">ιβ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.142</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>τοῖ ποταμοῖς ἔτρεφον τὰς κόμας. ἐπεὶ κουροτρόφοι νομίζονται διὰ τὸ αὐξητικὸν τὸ ὑγρὸν εἶναι~ ὅτι δὲ αύξη τικόν' ἐστι~ καὶ παῖδες πρώτῃ τροφῇ χρῶνται τῇ ὑγρᾷ⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_298r_5" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="13">ιγ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.143</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>στενάξας~ καὶ ὡς ἐπὶ τὴν πατρίδα καὶ τὸν <placeName n="urn:cite2:hmt:place.v1:place261">Σπερχειὸν</placeName> ἀποβλέψας⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_298r_6" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="14">ιδ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.147</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>δυνάμεως καὶ αὐξήσεως αἴτιον τὸ ὕδωρ~ ὅθεν ἔνορχα θύουσιν~ οἱονεὶ τὰ εὐθαλέστερα καὶ δυνάμει προύχοντα. τοῖς αἰτίοις τοῦ δύνασθαι⁑</p>
+              </p>
+            </div>
+          </div>
+          <div n="e3_298r_7" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="15">ιε</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:23.155</p>
+            </div>
+            <div n="comment">
+              <p>
+                <p>τοσοῦτος ὁ θρῆνος~ ὅτι καὶ <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλεὺς</persName> διαγινώσκει τὴν ἀμετρίαν αὐτοῦ⁑</p>
+              </p>
+            </div>
+          </div>
         </body>
       </text>
     </group>
