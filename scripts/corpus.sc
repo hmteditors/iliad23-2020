@@ -31,13 +31,19 @@ def iliad : Corpus = {
 }
 
 val corpus = iliad ++ scholia
+val vbScholia = scholia ~~ CtsUrn("urn:cts:greekLit:tlg5026.msB:")
+val upsilonScholia = scholia ~~ CtsUrn("urn:cts:greekLit:tlg5026.e3:")
 
 def info = {
   println("\n\nAll the texts in this repository are now loaded in a citable corpus.\n")
   println("To see examples of some things you can do, run:\n")
   println("\texamples")
   println("\nTo write all texts in this repository to a file in CEX format:\n")
-  println("\twriteCorpus(FILENAME)")
+  println("\twriteCorpus(CORPUS, \"FILENAME\")\n")
+  println("Predefined corpora include:")
+  println("\tscholia (all scholia)")
+  println("\tvbScholia (Venetus B scholia only)")
+  println("\tupsilonScholia (Upsilon 1.1 scholia only)")
 }
 
 def examples = {
@@ -78,9 +84,9 @@ You can even show off and do it in a single line!
 }
 
 import java.io.PrintWriter
-def writeCorpus(f: String = "iliad23-corpus.cex") = {
-  new PrintWriter(f){write(corpus.cex());close;}
-  println("CEX file for all texts written to " + f)
+def writeCorpus(c: Corpus, f: String = "iliad23-corpus.cex") = {
+  new PrintWriter(f){write(c.cex());close;}
+  println("CEX file written to " + f)
 }
 
 info
