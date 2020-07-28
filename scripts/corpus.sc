@@ -36,6 +36,8 @@ def info = {
   println("\n\nAll the texts in this repository are now loaded in a citable corpus.\n")
   println("To see examples of some things you can do, run:\n")
   println("\texamples")
+  println("\nTo write all texts in this repository to a file in CEX format:\n")
+  println("\twriteCorpus(FILENAME)")
 }
 
 def examples = {
@@ -73,6 +75,12 @@ You can even show off and do it in a single line!
 
 """
   println(eg)
+}
+
+import java.io.PrintWriter
+def writeCorpus(f: String = "iliad23-corpus.cex") = {
+  new PrintWriter(f){write(corpus.cex());close;}
+  println("CEX file for all texts written to " + f)
 }
 
 info
